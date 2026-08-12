@@ -128,32 +128,68 @@ The following data-cleaning steps were performed:
 > ![image_here](Figs/Screenshot%202026-08-12%20151652.png)
 ---
 
-### 7. Average Transaction Value
+### **7. Average Transaction Value**
 
 **Average Transaction Value:**
 
-> Update with your result.
+> **321.9 $**
 
 ---
 
-### 8. Customer Satisfaction by Branch
+### **8. Customer Satisfaction by Branch**
 
 **Branch with the Highest Satisfaction:**
 
-> Update with your result.
+> **('Cairo', 'Not Satisfied')**
+
+**Result:**
+
+| Branch | Not Satisfied (%) | Satisfied (%) |
+| :--- | :---: | :---: |
+| **Alex** | 47.3% | 52.7% |
+| **Cairo** | 54.0% | 46.0% |
+| **Giza** | 47.9% | 52.1% |
 
 ---
 
-### 9. Sales by Day and Month
+### **9. Sales by Day and Month**
 
 **Highest Sales Day:**
 
-> Update with your result.
+| Day | Total Salary |
+| :--- | :---: |
+| **Saturday** | 56,013.70 |
+| **Tuesday** | 50,645.30 |
+| **Thursday** | 44,819.60 |
+| **Sunday** | 43,685.50 |
+| **Wednesday** | 43,497.60 |
+| **Friday** | 42,542.50 |
+| **Monday** | 36,837.80 |
+| **Total** | **318,041.90** |
 
 **Highest Sales Month:**
 
-> Update with your result.
+| Month | Total Salary |
+| :--- | :---: |
+| **January** | 115,625.30 |
+| **February** | 94,445.40 |
+| **March** | 107,971.30 |
+| **Total** | **318,041.90** |
 
+**Result**
+
+| Day | January | February | March | Total |
+| :--- | :---: | :---: | :---: | :---: |
+| **Saturday** | 18,093.70 | 12,256.20 | 25,663.80 | **56,013.70** |
+| **Sunday** | 14,356.80 | 15,858.60 | 13,470.20 | **43,685.50** |
+| **Monday** | 14,192.70 | 12,851.20 | 9,793.90 | **36,837.80** |
+| **Tuesday** | 20,614.10 | 12,419.90 | 17,611.30 | **50,645.30** |
+| **Wednesday** | 17,808.40 | 12,172.00 | 13,517.20 | **43,497.60** |
+| **Thursday** | 19,340.20 | 12,719.60 | 12,759.80 | **44,819.60** |
+| **Friday** | 11,219.50 | 16,167.90 | 15,155.10 | **42,542.50** |
+| **Total** | **115,625.30** | **94,445.40** | **107,971.30** | **318,041.90** |
+
+> ![image_here]()
 ---
 
 ### 10. Overall Customer Satisfaction
