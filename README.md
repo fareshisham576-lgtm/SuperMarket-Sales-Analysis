@@ -20,3 +20,22 @@ The goal is to clean the data and answer business questions using the available 
 * Plotly
 
 ---
+## *🧹 Data Cleaning*
+
+The following data-cleaning steps were performed:
+
+* Checked data types
+* Checked missing values
+* Checked duplicate records
+* Renamed columns
+* Removed unnecessary columns
+* Corrected data types
+* Sorted the data
+* Create 3 columns (Day, Month, Year )
+* Created the `satisfied` column based on the rating
+
+**Satisfaction Rule:**
+
+<mark>`Rating >= 7 → Satisfied Else  → Not Satisfied`</mark>
+
+---
