@@ -68,7 +68,7 @@ The following data-cleaning steps were performed:
 
 **Most Profitable Branch:**
 
-> Giza
+> **Giza**
 
 **Result:**
 
@@ -85,29 +85,47 @@ The following data-cleaning steps were performed:
 
 **Top-Performing Category:**
 
-> Food and beverages
+> **Food and beverages**
 > 
 > ![image_here](Figs/Screenshot%202026-08-12%20151243.png)
-**Result / Screenshot:**
+**Result:**
 
-> Add your table or image here.
+| Product Line | Total Salary | Total Price |
+| :--- | :---: | :---: |
+| **Food and beverages** | 55,518.60 | 52,874.90 |
+| **Fashion accessories** | 54,245.10 | 51,662.00 |
+| **Sports and travel** | 53,898.00 | 51,331.40 |
+| **Home and lifestyle** | 53,089.50 | 50,561.50 |
+| **Electronic accessories** | 52,922.60 | 50,402.50 |
+| **Health and beauty** | 48,368.10 | 46,064.90 |
+| **Total** | **318,041.90** | **302,897.20** |
 
 ---
 
-### 5. Spending by Customer Type
+### **5. Spending by Customer Type**
 
 **Customer Type That Spends More:**
 
-> Update with your result.
+> **Member**
 
 ---
 
-### 6. Payment Method
+### **6. Payment Method**
 
 **Most Popular Payment Method:**
 
-> Update with your result.
+> **Cash**
 
+**Result & ScreenShot:**
+
+| Payment Method | Count |
+| :--- | :---: |
+| **Cash** | 341 |
+| **E-Wallet** | 338 |
+| **Credit card** | 309 |
+| **Total** | **988** |
+
+> ![image_here]()
 ---
 
 ### 7. Average Transaction Value
