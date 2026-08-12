@@ -45,6 +45,21 @@ The following data-cleaning steps were performed:
 
 **Result:**
 
-> 318041.9 $
+> **318041.9 $**
+
+---
+### **2. Revenue by City**
+
+**Highest Revenue City:**
+
+> **Giza**
+
+**Result / Screenshot:**
+
+> 	Total Salary
+Branch	
+Giza	109168.7
+Cairo	105266.5
+Alex	103606.7
 
 ---
