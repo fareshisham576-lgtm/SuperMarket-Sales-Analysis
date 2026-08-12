@@ -87,8 +87,7 @@ The following data-cleaning steps were performed:
 
 > Food and beverages
 > 
-> ![image_here](Figs/Screenshot 2026-08-12 151243.png)
-
+> ![image_here](Figs/Screenshot%202026-08-12%20151243.png)
 **Result / Screenshot:**
 
 > Add your table or image here.
