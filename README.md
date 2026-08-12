@@ -125,7 +125,7 @@ The following data-cleaning steps were performed:
 | **Credit card** | 309 |
 | **Total** | **988** |
 
-> ![image_here]()
+> ![image_here](Figs/Screenshot%202026-08-12%20151652.png)
 ---
 
 ### 7. Average Transaction Value
