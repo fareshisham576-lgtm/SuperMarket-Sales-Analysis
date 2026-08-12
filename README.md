@@ -45,7 +45,7 @@ The following data-cleaning steps were performed:
 
 **Result:**
 
-> **318041.9 $**
+> **318,041.9 $**
 
 ---
 ### **2. Revenue by City**
@@ -56,10 +56,11 @@ The following data-cleaning steps were performed:
 
 **Result / Screenshot:**
 
-> 	Total Salary
-Branch	
-Giza	109168.7
-Cairo	105266.5
-Alex	103606.7
+> 	| Branch | Total Salary |
+| :--- | :---: |
+| **Giza** | 109,168.70 |
+| **Cairo** | 105,266.50 |
+| **Alex** | 103,606.70 |
+| **Total** | **318,041.90** |
 
 ---
