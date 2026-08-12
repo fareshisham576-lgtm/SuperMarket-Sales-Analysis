@@ -156,6 +156,8 @@ The following data-cleaning steps were performed:
 
 **Highest Sales Day:**
 
+> **Saturday**
+
 | Day | Total Salary |
 | :--- | :---: |
 | **Saturday** | 56,013.70 |
@@ -168,6 +170,8 @@ The following data-cleaning steps were performed:
 | **Total** | **318,041.90** |
 
 **Highest Sales Month:**
+
+> **January**
 
 | Month | Total Salary |
 | :--- | :---: |
@@ -189,13 +193,20 @@ The following data-cleaning steps were performed:
 | **Friday** | 11,219.50 | 16,167.90 | 15,155.10 | **42,542.50** |
 | **Total** | **115,625.30** | **94,445.40** | **107,971.30** | **318,041.90** |
 
-> ![image_here]()
+> ![image_here](Figs/Screenshot%202026-08-12%20151716.png)
+
 ---
 
-### 10. Overall Customer Satisfaction
+### **10. Overall Customer Satisfaction**
 
 **Overall Satisfaction Percentage:**
 
-> Update with your result.
+| Satisfaction Status | Proportion (%) |
+| :--- | :---: |
+| **Satisfied** | 50.3% |
+| **Not Satisfied** | 49.7% |
+| **Total** | **100.0%** |
+
+>![image_here](Figs/Screenshot%202026-08-12%20151736.png)
 
 ---
