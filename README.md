@@ -39,3 +39,12 @@ The following data-cleaning steps were performed:
 <mark>`Rating >= 7 → Satisfied Else  → Not Satisfied`</mark>
 
 ---
+## *📊 Business Analysis*
+
+### **1. Total Revenue**
+
+**Result:**
+
+> 318041.9 $
+
+---
