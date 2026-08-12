@@ -86,7 +86,8 @@ The following data-cleaning steps were performed:
 **Top-Performing Category:**
 
 > Food and beverages
-> ![image_here]()
+> 
+> ![image_here](Figs/Screenshot 2026-08-12 151243.png)
 
 **Result / Screenshot:**
 
