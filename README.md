@@ -64,3 +64,84 @@ The following data-cleaning steps were performed:
 | **Total** | **318,041.90** |
 
 ---
+### **3. Profit by Branch**
+
+**Most Profitable Branch:**
+
+> Giza
+
+**Result:**
+
+| Branch | Total Price |
+| :--- | :---: |
+| **Giza** | 103,970.20 |
+| **Cairo** | 100,253.80 |
+| **Alex** | 98,673.00 |
+| **Total** | **302,897.00** |
+
+---
+
+### **4. Revenue and Profit by Product Category**
+
+**Top-Performing Category:**
+
+> Food and beverages
+> ![image_here]()
+
+**Result / Screenshot:**
+
+> Add your table or image here.
+
+---
+
+### 5. Spending by Customer Type
+
+**Customer Type That Spends More:**
+
+> Update with your result.
+
+---
+
+### 6. Payment Method
+
+**Most Popular Payment Method:**
+
+> Update with your result.
+
+---
+
+### 7. Average Transaction Value
+
+**Average Transaction Value:**
+
+> Update with your result.
+
+---
+
+### 8. Customer Satisfaction by Branch
+
+**Branch with the Highest Satisfaction:**
+
+> Update with your result.
+
+---
+
+### 9. Sales by Day and Month
+
+**Highest Sales Day:**
+
+> Update with your result.
+
+**Highest Sales Month:**
+
+> Update with your result.
+
+---
+
+### 10. Overall Customer Satisfaction
+
+**Overall Satisfaction Percentage:**
+
+> Update with your result.
+
+---
