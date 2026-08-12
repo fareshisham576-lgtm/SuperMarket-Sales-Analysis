@@ -56,7 +56,7 @@ The following data-cleaning steps were performed:
 
 **Result / Screenshot:**
 
-> 	| Branch | Total Salary |
+> | Branch | Total Salary |
 | :--- | :---: |
 | **Giza** | 109,168.70 |
 | **Cairo** | 105,266.50 |
