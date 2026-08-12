@@ -1,0 +1,989 @@
+Branch,Customer type,Gender,Product line,Unit price,Quantity,Tax(TS - TP),Total Salary,Date,Time,Payment,Total Price,Rating,Day,Month,Year,Satisfaction
+Giza,Member,Female,Fashion accessories,99.3,10,49.65,1042.65,2019-02-15,14:53:00,Credit card,993.0,6.6,Friday,February,2019,Not Satisfied
+Alex,Normal,Male,Fashion accessories,98.97999999999999,10,49.49,1039.29,2019-02-08,16:20:00,Credit card,989.8,8.7,Friday,February,2019,Satisfied
+Giza,Member,Female,Food and beverages,98.52000000000001,10,49.26,1034.46,2019-01-30,20:23:00,E-Wallet,985.2,4.5,Wednesday,January,2019,Not Satisfied
+Giza,Normal,Male,Home and lifestyle,97.5,10,48.75,1023.75,2019-01-12,16:18:00,E-Wallet,975.0,8.0,Saturday,January,2019,Satisfied
+Cairo,Normal,Female,Home and lifestyle,97.38,10,48.69,1022.49,2019-03-02,17:16:00,E-Wallet,973.8,4.4,Saturday,March,2019,Not Satisfied
+Cairo,Normal,Female,Home and lifestyle,97.37,10,48.685,1022.385,2019-01-15,13:48:00,Credit card,973.7,4.9,Tuesday,January,2019,Not Satisfied
+Giza,Member,Female,Fashion accessories,97.21000000000001,10,48.605,1020.7050000000002,2019-02-08,13:00:00,Credit card,972.1,8.7,Friday,February,2019,Satisfied
+Giza,Normal,Male,Home and lifestyle,95.58,10,47.79,1003.5899999999999,2019-01-16,13:32:00,Cash,955.8,4.8,Wednesday,January,2019,Not Satisfied
+Giza,Normal,Female,Sports and travel,95.44,10,47.72,1002.12,2019-01-09,13:45:00,Cash,954.4,5.2,Wednesday,January,2019,Not Satisfied
+Alex,Member,Female,Home and lifestyle,90.65,10,45.325,951.825,2019-03-08,10:53:00,E-Wallet,906.5,7.3,Friday,March,2019,Satisfied
+Giza,Member,Male,Health and beauty,90.5,10,45.25,950.25,2019-01-25,13:48:00,Cash,905.0,8.1,Friday,January,2019,Satisfied
+Cairo,Member,Female,Sports and travel,99.96,9,44.982,944.622,2019-03-09,17:26:00,Credit card,899.64,4.2,Saturday,March,2019,Not Satisfied
+Giza,Member,Male,Fashion accessories,99.82,9,44.919,943.2989999999999,2019-03-27,10:43:00,Cash,898.38,6.6,Wednesday,March,2019,Not Satisfied
+Giza,Member,Female,Sports and travel,89.8,10,44.9,942.9,2019-01-23,13:00:00,Credit card,898.0,5.4,Wednesday,January,2019,Not Satisfied
+Cairo,Normal,Female,Electronic accessories,99.73,9,44.8785,942.4485000000001,2019-03-02,19:42:00,Credit card,897.57,6.5,Saturday,March,2019,Not Satisfied
+Giza,Member,Female,Food and beverages,89.47999999999999,10,44.74,939.54,2019-01-06,12:46:00,Credit card,894.8,9.6,Sunday,January,2019,Satisfied
+Giza,Normal,Male,Sports and travel,99.24,9,44.658,937.818,2019-03-19,19:09:00,E-Wallet,893.16,9.0,Tuesday,March,2019,Satisfied
+Giza,Normal,Male,Food and beverages,89.2,10,44.6,936.6,2019-02-11,15:42:00,Credit card,892.0,4.4,Monday,February,2019,Not Satisfied
+Giza,Member,Female,Food and beverages,98.97,9,44.5365,935.2665000000001,2019-03-09,11:23:00,Cash,890.73,6.7,Saturday,March,2019,Not Satisfied
+Alex,Member,Female,Food and beverages,98.66000000000001,9,44.397,932.3370000000001,2019-02-19,15:07:00,Cash,887.94,8.4,Tuesday,February,2019,Satisfied
+Alex,Member,Female,Electronic accessories,88.67,10,44.335,931.0350000000001,2019-01-12,14:50:00,E-Wallet,886.7,7.3,Saturday,January,2019,Satisfied
+Alex,Normal,Male,Sports and travel,98.08999999999999,9,44.1405,926.9504999999999,2019-02-17,19:41:00,Cash,882.81,9.3,Sunday,February,2019,Satisfied
+Cairo,Member,Female,Health and beauty,87.87,10,43.935,922.635,2019-03-29,10:25:00,E-Wallet,878.7,5.1,Friday,March,2019,Not Satisfied
+Alex,Member,Female,Sports and travel,97.48,9,43.866,921.186,2019-03-14,14:19:00,E-Wallet,877.32,7.4,Thursday,March,2019,Satisfied
+Cairo,Member,Male,Health and beauty,97.22,9,43.749,918.729,2019-03-30,14:43:00,E-Wallet,874.98,6.0,Saturday,March,2019,Not Satisfied
+Giza,Member,Female,Food and beverages,87.1,10,43.55,914.55,2019-02-12,14:45:00,Credit card,871.0,9.9,Tuesday,February,2019,Satisfied
+Cairo,Member,Female,Food and beverages,84.63,10,42.315,888.615,2019-01-01,11:36:00,Credit card,846.3,9.0,Tuesday,January,2019,Satisfied
+Giza,Normal,Male,Health and beauty,84.61,10,42.305,888.405,2019-02-09,18:58:00,Credit card,846.1,8.8,Saturday,February,2019,Satisfied
+Alex,Normal,Male,Home and lifestyle,93.96,9,42.282,887.922,2019-03-20,11:32:00,Cash,845.64,9.8,Wednesday,March,2019,Satisfied
+Giza,Normal,Female,Food and beverages,93.26,9,41.967,881.307,2019-01-16,18:08:00,Cash,839.34,8.8,Wednesday,January,2019,Satisfied
+Cairo,Normal,Female,Fashion accessories,83.25,10,41.625,874.125,2019-01-12,11:25:00,Credit card,832.5,4.4,Saturday,January,2019,Not Satisfied
+Giza,Member,Female,Fashion accessories,82.63,10,41.315,867.615,2019-03-19,17:08:00,E-Wallet,826.3,7.9,Tuesday,March,2019,Satisfied
+Cairo,Member,Male,Health and beauty,82.58,10,41.29,867.0899999999999,2019-03-14,14:41:00,Cash,825.8,5.0,Thursday,March,2019,Not Satisfied
+Giza,Member,Male,Electronic accessories,82.34,10,41.17,864.57,2019-03-29,19:12:00,E-Wallet,823.4,4.3,Friday,March,2019,Not Satisfied
+Giza,Member,Female,Electronic accessories,81.97,10,40.985,860.6850000000001,2019-03-03,14:30:00,Cash,819.7,9.2,Sunday,March,2019,Satisfied
+Giza,Member,Male,Health and beauty,81.95,10,40.975,860.475,2019-03-10,12:39:00,Credit card,819.5,6.0,Sunday,March,2019,Not Satisfied
+Giza,Member,Female,Sports and travel,90.63,9,40.7835,856.4535,2019-01-18,15:28:00,Cash,815.67,5.1,Friday,January,2019,Not Satisfied
+Cairo,Member,Female,Sports and travel,90.28,9,40.626,853.146,2019-02-08,11:15:00,E-Wallet,812.52,7.2,Friday,February,2019,Satisfied
+Alex,Normal,Female,Food and beverages,81.21000000000001,10,40.605,852.7050000000002,2019-01-17,13:01:00,Credit card,812.1,6.3,Thursday,January,2019,Not Satisfied
+Alex,Member,Female,Home and lifestyle,89.21,9,40.1445,843.0345,2019-01-15,15:42:00,Credit card,802.89,6.5,Tuesday,January,2019,Not Satisfied
+Alex,Member,Female,Electronic accessories,99.56,8,39.824,836.304,2019-02-14,17:03:00,Credit card,796.48,5.2,Thursday,February,2019,Not Satisfied
+Cairo,Member,Female,Home and lifestyle,88.39,9,39.7755,835.2855,2019-03-02,12:40:00,Cash,795.51,6.3,Saturday,March,2019,Not Satisfied
+Cairo,Normal,Female,Electronic accessories,88.25,9,39.7125,833.9625,2019-02-15,20:51:00,Credit card,794.25,7.6,Friday,February,2019,Satisfied
+Cairo,Normal,Male,Electronic accessories,79.39,10,39.695,833.595,2019-02-07,20:24:00,Cash,793.9,6.2,Thursday,February,2019,Not Satisfied
+Cairo,Normal,Male,Health and beauty,99.16,8,39.664,832.944,2019-01-28,17:47:00,Credit card,793.28,4.2,Monday,January,2019,Not Satisfied
+Cairo,Member,Male,Electronic accessories,87.87,9,39.5415,830.3715000000001,2019-01-31,20:32:00,E-Wallet,790.83,5.6,Thursday,January,2019,Not Satisfied
+Giza,Normal,Female,Food and beverages,87.80000000000001,9,39.51,829.71,2019-03-16,19:08:00,Cash,790.2,9.2,Saturday,March,2019,Satisfied
+Giza,Member,Female,Food and beverages,98.7,8,39.48,829.08,2019-03-04,20:39:00,Cash,789.6,7.6,Monday,March,2019,Satisfied
+Giza,Member,Male,Fashion accessories,98.7,8,39.48,829.08,2019-01-31,10:36:00,E-Wallet,789.6,8.5,Thursday,January,2019,Satisfied
+Alex,Member,Female,Sports and travel,78.77000000000001,10,39.385,827.085,2019-01-24,10:04:00,Cash,787.7,6.4,Thursday,January,2019,Not Satisfied
+Giza,Member,Female,Food and beverages,78.31,10,39.155,822.255,2019-03-05,16:24:00,E-Wallet,783.1,6.6,Tuesday,March,2019,Not Satisfied
+Giza,Member,Female,Electronic accessories,78.13,10,39.065,820.365,2019-02-10,20:51:00,Cash,781.3,4.4,Sunday,February,2019,Not Satisfied
+Alex,Normal,Female,Fashion accessories,97.29,8,38.916,817.2360000000001,2019-03-09,13:18:00,Credit card,778.32,6.2,Saturday,March,2019,Not Satisfied
+Giza,Normal,Male,Food and beverages,77.56,10,38.78,814.38,2019-03-14,20:35:00,E-Wallet,775.6,6.9,Thursday,March,2019,Not Satisfied
+Cairo,Member,Female,Food and beverages,77.2,10,38.6,810.6,2019-02-11,10:38:00,Credit card,772.0,5.6,Monday,February,2019,Not Satisfied
+Alex,Member,Male,Sports and travel,76.92,10,38.46,807.6600000000001,2019-03-17,19:53:00,E-Wallet,769.2,5.6,Sunday,March,2019,Not Satisfied
+Cairo,Normal,Female,Sports and travel,76.6,10,38.3,804.3,2019-01-24,18:10:00,E-Wallet,766.0,6.0,Thursday,January,2019,Not Satisfied
+Cairo,Normal,Female,Home and lifestyle,95.46,8,38.184,801.8639999999999,2019-03-05,19:40:00,E-Wallet,763.68,4.7,Tuesday,March,2019,Not Satisfied
+Cairo,Normal,Male,Fashion accessories,94.87,8,37.948,796.908,2019-02-12,12:58:00,E-Wallet,758.96,8.7,Tuesday,February,2019,Satisfied
+Cairo,Normal,Female,Health and beauty,84.08999999999999,9,37.8405,794.6505,2019-02-11,10:54:00,Cash,756.81,8.0,Monday,February,2019,Satisfied
+Cairo,Member,Female,Home and lifestyle,94.49,8,37.796,793.716,2019-03-03,19:00:00,E-Wallet,755.92,7.5,Sunday,March,2019,Satisfied
+Giza,Normal,Female,Food and beverages,94.47,8,37.788,793.548,2019-02-27,15:12:00,Cash,755.76,9.1,Wednesday,February,2019,Satisfied
+Cairo,Normal,Male,Home and lifestyle,93.87,8,37.548,788.508,2019-02-02,18:42:00,Credit card,750.96,8.3,Saturday,February,2019,Satisfied
+Alex,Normal,Male,Fashion accessories,83.24,9,37.458,786.6179999999999,2019-01-29,11:56:00,Credit card,749.16,7.4,Tuesday,January,2019,Satisfied
+Cairo,Member,Female,Food and beverages,74.6,10,37.3,783.3,2019-01-08,20:55:00,Cash,746.0,9.5,Tuesday,January,2019,Satisfied
+Alex,Normal,Female,Home and lifestyle,93.12,8,37.248,782.2080000000001,2019-02-07,10:09:00,Cash,744.96,6.8,Thursday,February,2019,Not Satisfied
+Alex,Normal,Female,Food and beverages,74.44,10,37.22,781.62,2019-02-27,11:40:00,E-Wallet,744.4,5.1,Wednesday,February,2019,Not Satisfied
+Alex,Member,Female,Electronic accessories,74.22,10,37.11,779.3100000000001,2019-01-01,14:42:00,Credit card,742.2,4.3,Tuesday,January,2019,Not Satisfied
+Alex,Member,Female,Electronic accessories,73.47,10,36.735,771.4350000000001,2019-03-23,13:14:00,E-Wallet,734.7,9.5,Saturday,March,2019,Satisfied
+Cairo,Member,Male,Electronic accessories,91.56,8,36.624,769.104,2019-01-12,18:22:00,E-Wallet,732.48,6.0,Saturday,January,2019,Not Satisfied
+Cairo,Member,Female,Food and beverages,73.05,10,36.525,767.025,2019-03-03,12:25:00,Credit card,730.5,8.7,Sunday,March,2019,Satisfied
+Alex,Member,Male,Home and lifestyle,72.78,10,36.39,764.1899999999999,2019-02-03,17:24:00,Cash,727.8,7.3,Sunday,February,2019,Satisfied
+Giza,Member,Female,Home and lifestyle,80.79,9,36.3555,763.4655,2019-02-01,20:31:00,Credit card,727.11,9.5,Friday,February,2019,Satisfied
+Cairo,Member,Male,Sports and travel,90.53,8,36.212,760.452,2019-03-15,14:48:00,Credit card,724.24,6.5,Friday,March,2019,Not Satisfied
+Cairo,Member,Male,Health and beauty,80.47,9,36.2115,760.4415,2019-01-06,11:18:00,Cash,724.23,9.2,Sunday,January,2019,Satisfied
+Alex,Member,Female,Home and lifestyle,72.35,10,36.175,759.675,2019-01-20,15:55:00,Cash,723.5,5.4,Sunday,January,2019,Not Satisfied
+Cairo,Normal,Male,Electronic accessories,72.13,10,36.065,757.365,2019-01-31,15:12:00,Credit card,721.3,4.2,Thursday,January,2019,Not Satisfied
+Alex,Normal,Female,Electronic accessories,90.02,8,36.008,756.168,2019-03-21,16:08:00,Credit card,720.16,4.5,Thursday,March,2019,Not Satisfied
+Alex,Member,Female,Health and beauty,89.6,8,35.84,752.64,2019-02-07,11:28:00,E-Wallet,716.8,6.6,Thursday,February,2019,Not Satisfied
+Giza,Member,Female,Home and lifestyle,89.25,8,35.7,749.7,2019-01-20,10:13:00,Cash,714.0,4.7,Sunday,January,2019,Not Satisfied
+Alex,Member,Female,Home and lifestyle,88.79,8,35.516,745.836,2019-02-17,17:09:00,Cash,710.32,4.1,Sunday,February,2019,Not Satisfied
+Giza,Member,Male,Fashion accessories,70.99,10,35.495,745.395,2019-03-20,16:28:00,Cash,709.9,5.7,Wednesday,March,2019,Not Satisfied
+Giza,Member,Female,Electronic accessories,88.55,8,35.42,743.8199999999999,2019-03-19,15:29:00,E-Wallet,708.4,4.7,Tuesday,March,2019,Not Satisfied
+Cairo,Member,Female,Sports and travel,88.43,8,35.372,742.812,2019-03-22,19:35:00,Credit card,707.44,4.3,Friday,March,2019,Not Satisfied
+Giza,Member,Female,Fashion accessories,78.55000000000001,9,35.3475,742.2975,2019-03-01,13:22:00,Cash,706.95,7.2,Friday,March,2019,Satisfied
+Cairo,Member,Female,Sports and travel,78.07,9,35.1315,737.7614999999998,2019-01-28,12:43:00,Cash,702.63,4.5,Monday,January,2019,Not Satisfied
+Alex,Normal,Female,Fashion accessories,77.93,9,35.0685,736.4385000000001,2019-02-27,16:10:00,E-Wallet,701.37,7.6,Wednesday,February,2019,Satisfied
+Giza,Normal,Male,Health and beauty,99.96000000000001,7,34.986,734.706,2019-01-23,10:33:00,Cash,699.72,6.1,Wednesday,January,2019,Not Satisfied
+Cairo,Member,Female,Home and lifestyle,77.68,9,34.956,734.0760000000001,2019-02-04,13:21:00,E-Wallet,699.12,9.8,Monday,February,2019,Satisfied
+Giza,Normal,Female,Electronic accessories,77.63,9,34.9335,733.6034999999999,2019-02-19,15:14:00,E-Wallet,698.67,7.2,Tuesday,February,2019,Satisfied
+Cairo,Normal,Male,Sports and travel,69.74,10,34.87,732.27,2019-03-05,17:49:00,Credit card,697.4,8.9,Tuesday,March,2019,Satisfied
+Alex,Normal,Male,Electronic accessories,99.55,7,34.8425,731.6925,2019-03-14,12:07:00,Cash,696.85,7.6,Thursday,March,2019,Satisfied
+Cairo,Member,Female,Food and beverages,77.4,9,34.83,731.4300000000001,2019-02-15,14:15:00,Credit card,696.6,4.5,Friday,February,2019,Not Satisfied
+Alex,Member,Male,Fashion accessories,86.68,8,34.672,728.1120000000001,2019-01-24,18:04:00,Credit card,693.44,7.2,Thursday,January,2019,Satisfied
+Alex,Member,Female,Sports and travel,98.39999999999999,7,34.44,723.24,2019-03-12,12:43:00,Credit card,688.8,8.7,Tuesday,March,2019,Satisfied
+Giza,Member,Female,Electronic accessories,85.98,8,34.392,722.2320000000001,2019-02-28,19:01:00,Cash,687.84,8.2,Thursday,February,2019,Satisfied
+Alex,Normal,Male,Fashion accessories,76.4,9,34.38,721.98,2019-03-19,15:49:00,E-Wallet,687.6,7.5,Tuesday,March,2019,Satisfied
+Giza,Member,Female,Health and beauty,68.6,10,34.3,720.3,2019-02-05,19:57:00,Cash,686.0,9.1,Tuesday,February,2019,Satisfied
+Giza,Member,Female,Fashion accessories,97.78999999999999,7,34.2265,718.7565,2019-02-16,17:30:00,E-Wallet,684.53,4.9,Saturday,February,2019,Not Satisfied
+Cairo,Member,Female,Electronic accessories,75.58999999999999,9,34.0155,714.3254999999999,2019-02-23,11:12:00,Cash,680.31,8.0,Saturday,February,2019,Satisfied
+Alex,Normal,Female,Electronic accessories,75.06,9,33.777,709.317,2019-03-19,13:25:00,E-Wallet,675.54,6.2,Tuesday,March,2019,Not Satisfied
+Giza,Normal,Male,Electronic accessories,96.37,7,33.7295,708.3195000000001,2019-01-09,11:40:00,Cash,674.59,6.0,Wednesday,January,2019,Not Satisfied
+Alex,Member,Male,Food and beverages,67.45,10,33.725,708.225,2019-02-03,11:25:00,E-Wallet,674.5,4.2,Sunday,February,2019,Not Satisfied
+Alex,Member,Female,Home and lifestyle,74.67,9,33.6015,705.6315,2019-01-22,10:55:00,E-Wallet,672.03,9.4,Tuesday,January,2019,Satisfied
+Cairo,Member,Female,Sports and travel,83.78,8,33.512,703.752,2019-01-10,14:49:00,Cash,670.24,5.1,Thursday,January,2019,Not Satisfied
+Cairo,Normal,Male,Fashion accessories,95.53999999999999,7,33.439,702.2189999999999,2019-03-09,14:36:00,Credit card,668.78,9.6,Saturday,March,2019,Satisfied
+Giza,Normal,Male,Sports and travel,95.49,7,33.4215,701.8515,2019-02-22,18:17:00,E-Wallet,668.43,8.7,Friday,February,2019,Satisfied
+Cairo,Member,Male,Health and beauty,66.47,10,33.235,697.9350000000001,2019-01-15,15:01:00,Credit card,664.7,5.0,Tuesday,January,2019,Not Satisfied
+Alex,Member,Female,Home and lifestyle,94.88,7,33.208,697.3679999999999,2019-02-03,14:38:00,Cash,664.16,4.2,Sunday,February,2019,Not Satisfied
+Cairo,Member,Female,Home and lifestyle,94.59,7,33.1065,695.2365,2019-01-17,15:27:00,Credit card,662.13,4.9,Thursday,January,2019,Not Satisfied
+Alex,Normal,Female,Electronic accessories,93.88,7,32.858,690.0179999999999,2019-01-05,11:51:00,Credit card,657.16,7.3,Saturday,January,2019,Satisfied
+Giza,Member,Female,Food and beverages,72.88,9,32.796,688.716,2019-01-08,19:38:00,Cash,655.92,4.0,Tuesday,January,2019,Not Satisfied
+Alex,Member,Female,Home and lifestyle,93.69000000000001,7,32.7915,688.6215000000001,2019-03-10,18:44:00,Credit card,655.83,4.5,Sunday,March,2019,Not Satisfied
+Cairo,Member,Male,Fashion accessories,65.22999999999999,10,32.615,684.915,2019-01-08,19:07:00,Credit card,652.3,5.2,Tuesday,January,2019,Not Satisfied
+Giza,Normal,Male,Electronic accessories,64.95,10,32.475,681.975,2019-03-24,18:27:00,Cash,649.5,5.2,Sunday,March,2019,Not Satisfied
+Cairo,Member,Female,Health and beauty,72.11,9,32.4495,681.4395,2019-01-28,13:53:00,Credit card,648.99,7.7,Monday,January,2019,Satisfied
+Alex,Member,Male,Electronic accessories,92.60000000000001,7,32.41,680.61,2019-02-27,12:52:00,Credit card,648.2,9.3,Wednesday,February,2019,Satisfied
+Giza,Normal,Female,Sports and travel,80.97,8,32.388,680.148,2019-01-28,13:05:00,Cash,647.76,9.3,Monday,January,2019,Satisfied
+Alex,Member,Male,Food and beverages,80.96,8,32.384,680.064,2019-02-17,11:12:00,Credit card,647.68,7.4,Sunday,February,2019,Satisfied
+Alex,Normal,Male,Sports and travel,64.19,10,32.095,673.995,2019-01-19,14:08:00,Credit card,641.9,6.7,Saturday,January,2019,Not Satisfied
+Giza,Member,Female,Food and beverages,91.39999999999999,7,31.99,671.79,2019-02-03,10:19:00,Cash,639.8,9.5,Sunday,February,2019,Satisfied
+Alex,Member,Male,Home and lifestyle,63.56,10,31.78,667.38,2019-01-16,17:59:00,Cash,635.6,4.3,Wednesday,January,2019,Not Satisfied
+Cairo,Member,Female,Sports and travel,90.74,7,31.759,666.939,2019-01-16,18:03:00,Credit card,635.18,6.2,Wednesday,January,2019,Not Satisfied
+Giza,Member,Female,Sports and travel,70.19,9,31.5855,663.2955000000001,2019-01-25,13:38:00,Cash,631.71,6.7,Friday,January,2019,Not Satisfied
+Alex,Member,Male,Electronic accessories,69.58,9,31.311,657.5310000000001,2019-02-19,19:38:00,Credit card,626.22,7.8,Tuesday,February,2019,Satisfied
+Cairo,Member,Male,Health and beauty,69.37,9,31.2165,655.5465,2019-01-26,19:14:00,E-Wallet,624.33,4.0,Saturday,January,2019,Not Satisfied
+Giza,Normal,Female,Fashion accessories,62.17999999999999,10,31.09,652.89,2019-01-31,10:33:00,E-Wallet,621.8,6.0,Thursday,January,2019,Not Satisfied
+Giza,Member,Female,Fashion accessories,62.120000000000005,10,31.06,652.26,2019-02-11,16:19:00,Cash,621.2,5.9,Monday,February,2019,Not Satisfied
+Alex,Member,Female,Fashion accessories,88.34,7,30.919,649.299,2019-02-18,13:28:00,Cash,618.38,6.6,Monday,February,2019,Not Satisfied
+Cairo,Normal,Male,Electronic accessories,87.08,7,30.478,640.0379999999999,2019-01-26,15:17:00,Cash,609.56,5.5,Saturday,January,2019,Not Satisfied
+Cairo,Normal,Male,Sports and travel,75.92,8,30.368,637.7280000000001,2019-03-20,14:14:00,Cash,607.36,5.5,Wednesday,March,2019,Not Satisfied
+Cairo,Member,Male,Home and lifestyle,60.379999999999995,10,30.19,633.99,2019-02-12,16:19:00,Cash,603.8,6.0,Tuesday,February,2019,Not Satisfied
+Cairo,Member,Male,Health and beauty,75.37,8,30.148,633.1080000000001,2019-01-28,15:46:00,Credit card,602.96,8.4,Monday,January,2019,Satisfied
+Giza,Member,Female,Health and beauty,85.87,7,30.0545,631.1445,2019-02-27,19:01:00,Credit card,601.09,8.0,Wednesday,February,2019,Satisfied
+Giza,Member,Female,Electronic accessories,66.65,9,29.9925,629.8425,2019-01-04,18:19:00,Credit card,599.85,9.7,Friday,January,2019,Satisfied
+Cairo,Normal,Male,Home and lifestyle,99.92,6,29.976,629.496,2019-03-24,13:33:00,E-Wallet,599.52,7.1,Sunday,March,2019,Satisfied
+Giza,Member,Male,Health and beauty,85.60000000000001,7,29.96,629.1600000000001,2019-03-02,13:50:00,Cash,599.2,5.3,Saturday,March,2019,Not Satisfied
+Alex,Member,Male,Health and beauty,99.83,6,29.949,628.929,2019-03-04,15:02:00,E-Wallet,598.98,8.5,Monday,March,2019,Satisfied
+Cairo,Normal,Female,Health and beauty,99.71,6,29.913,628.173,2019-02-26,16:52:00,E-Wallet,598.26,7.9,Tuesday,February,2019,Satisfied
+Giza,Normal,Male,Fashion accessories,59.61,10,29.805,625.905,2019-03-14,11:07:00,Cash,596.1,5.3,Thursday,March,2019,Not Satisfied
+Giza,Member,Female,Health and beauty,99.19,6,29.757,624.8969999999999,2019-01-21,14:42:00,Credit card,595.14,5.5,Monday,January,2019,Not Satisfied
+Alex,Normal,Female,Fashion accessories,99.10000000000001,6,29.73,624.33,2019-01-19,13:11:00,Cash,594.6,4.2,Saturday,January,2019,Not Satisfied
+Alex,Normal,Female,Fashion accessories,65.74,9,29.583,621.2429999999999,2019-01-01,13:55:00,Cash,591.66,7.7,Tuesday,January,2019,Satisfied
+Alex,Member,Male,Food and beverages,98.52999999999999,6,29.559,620.7389999999999,2019-01-23,11:22:00,Credit card,591.18,4.0,Wednesday,January,2019,Not Satisfied
+Giza,Normal,Male,Health and beauty,58.95,10,29.475,618.975,2019-02-07,14:27:00,E-Wallet,589.5,8.1,Thursday,February,2019,Satisfied
+Giza,Normal,Male,Electronic accessories,58.760000000000005,10,29.38,616.98,2019-01-29,14:26:00,E-Wallet,587.6,9.0,Tuesday,January,2019,Satisfied
+Cairo,Member,Female,Fashion accessories,97.61,6,29.283,614.943,2019-01-07,15:01:00,E-Wallet,585.66,9.9,Monday,January,2019,Satisfied
+Giza,Normal,Female,Sports and travel,83.14,7,29.099,611.0790000000001,2019-01-10,10:31:00,Credit card,581.98,6.6,Thursday,January,2019,Not Satisfied
+Giza,Member,Female,Sports and travel,83.05999999999999,7,29.071,610.491,2019-03-05,14:31:00,E-Wallet,581.42,4.0,Tuesday,March,2019,Not Satisfied
+Cairo,Member,Male,Health and beauty,72.57,8,29.028,609.588,2019-03-30,17:58:00,Cash,580.56,4.6,Saturday,March,2019,Not Satisfied
+Giza,Member,Female,Food and beverages,72.52,8,29.008,609.168,2019-03-30,19:26:00,Credit card,580.16,4.0,Saturday,March,2019,Not Satisfied
+Alex,Normal,Female,Sports and travel,72.5,8,29.0,609.0,2019-03-16,19:25:00,E-Wallet,580.0,9.2,Saturday,March,2019,Satisfied
+Cairo,Member,Female,Health and beauty,64.36,9,28.962,608.202,2019-03-12,12:09:00,Credit card,579.24,8.6,Tuesday,March,2019,Satisfied
+Alex,Normal,Female,Home and lifestyle,96.52,6,28.956,608.076,2019-01-11,11:52:00,Cash,579.12,4.5,Friday,January,2019,Not Satisfied
+Giza,Normal,Male,Electronic accessories,71.89,8,28.756,603.876,2019-02-19,11:33:00,E-Wallet,575.12,5.5,Tuesday,February,2019,Not Satisfied
+Cairo,Member,Male,Home and lifestyle,71.86,8,28.744,603.624,2019-03-06,15:07:00,Credit card,574.88,6.2,Wednesday,March,2019,Not Satisfied
+Cairo,Member,Male,Fashion accessories,81.30999999999999,7,28.4585,597.6284999999999,2019-03-01,19:49:00,E-Wallet,569.17,6.3,Friday,March,2019,Not Satisfied
+Giza,Member,Male,Health and beauty,81.23,7,28.4305,597.0405000000001,2019-01-15,20:44:00,Cash,568.61,9.0,Tuesday,January,2019,Satisfied
+Giza,Member,Female,Home and lifestyle,81.2,7,28.42,596.8199999999999,2019-03-23,15:59:00,Credit card,568.4,8.1,Saturday,March,2019,Satisfied
+Alex,Member,Male,Fashion accessories,56.04,10,28.02,588.42,2019-01-14,19:30:00,E-Wallet,560.4,4.4,Monday,January,2019,Not Satisfied
+Cairo,Normal,Male,Sports and travel,93.39,6,28.017,588.3570000000001,2019-03-27,19:18:00,E-Wallet,560.34,10.0,Wednesday,March,2019,Satisfied
+Alex,Normal,Female,Home and lifestyle,69.96,8,27.984,587.664,2019-02-15,17:01:00,Credit card,559.68,6.4,Friday,February,2019,Not Satisfied
+Cairo,Normal,Female,Fashion accessories,79.86,7,27.951,586.971,2019-01-10,10:33:00,Credit card,559.02,5.5,Thursday,January,2019,Not Satisfied
+Giza,Normal,Male,Electronic accessories,55.870000000000005,10,27.935,586.635,2019-01-15,15:01:00,Cash,558.7,5.8,Tuesday,January,2019,Not Satisfied
+Alex,Member,Female,Sports and travel,92.13,6,27.639,580.419,2019-03-06,20:34:00,Cash,552.78,8.3,Wednesday,March,2019,Satisfied
+Giza,Normal,Female,Health and beauty,78.89,7,27.6115,579.8415,2019-01-05,19:48:00,E-Wallet,552.23,7.5,Saturday,January,2019,Satisfied
+Alex,Normal,Male,Sports and travel,60.949999999999996,9,27.4275,575.9775,2019-01-07,12:08:00,Credit card,548.55,6.0,Monday,January,2019,Not Satisfied
+Giza,Member,Female,Food and beverages,68.54,8,27.416,575.7360000000001,2019-01-08,15:57:00,E-Wallet,548.32,8.5,Tuesday,January,2019,Satisfied
+Alex,Member,Female,Electronic accessories,60.879999999999995,9,27.396,575.3159999999999,2019-01-15,17:17:00,E-Wallet,547.92,4.7,Tuesday,January,2019,Not Satisfied
+Giza,Member,Female,Sports and travel,54.55,10,27.275,572.775,2019-03-02,11:22:00,Credit card,545.5,7.1,Saturday,March,2019,Satisfied
+Cairo,Member,Female,Electronic accessories,90.7,6,27.21,571.4100000000001,2019-02-26,10:52:00,Cash,544.2,5.3,Tuesday,February,2019,Not Satisfied
+Cairo,Member,Female,Food and beverages,54.36,10,27.18,570.78,2019-02-07,11:28:00,Credit card,543.6,6.1,Thursday,February,2019,Not Satisfied
+Giza,Normal,Female,Food and beverages,90.24000000000001,6,27.072,568.5120000000001,2019-01-27,11:17:00,Cash,541.44,6.2,Sunday,January,2019,Not Satisfied
+Cairo,Member,Female,Health and beauty,76.89999999999999,7,26.915,565.2149999999999,2019-02-15,20:21:00,Cash,538.3,7.7,Friday,February,2019,Satisfied
+Alex,Member,Male,Sports and travel,89.06,6,26.718,561.078,2019-01-18,17:26:00,Cash,534.36,9.9,Friday,January,2019,Satisfied
+Cairo,Normal,Male,Electronic accessories,75.88,7,26.558,557.718,2019-01-24,10:38:00,E-Wallet,531.16,8.9,Thursday,January,2019,Satisfied
+Cairo,Normal,Female,Electronic accessories,52.79,10,26.395,554.295,2019-02-25,11:58:00,E-Wallet,527.9,10.0,Monday,February,2019,Satisfied
+Giza,Normal,Male,Food and beverages,65.97,8,26.388,554.148,2019-02-02,20:29:00,Cash,527.76,8.4,Saturday,February,2019,Satisfied
+Giza,Member,Female,Food and beverages,87.48,6,26.244,551.124,2019-02-01,18:43:00,E-Wallet,524.88,5.1,Friday,February,2019,Not Satisfied
+Cairo,Member,Female,Electronic accessories,87.45,6,26.235,550.9350000000001,2019-02-17,14:40:00,Credit card,524.7,8.8,Sunday,February,2019,Satisfied
+Cairo,Normal,Female,Health and beauty,58.239999999999995,9,26.208,550.3679999999999,2019-02-05,12:34:00,Cash,524.16,9.7,Tuesday,February,2019,Satisfied
+Alex,Member,Female,Health and beauty,74.69000000000001,7,26.1415,548.9715,2019-01-05,13:08:00,E-Wallet,522.83,9.1,Saturday,January,2019,Satisfied
+Alex,Member,Female,Home and lifestyle,58.07,9,26.1315,548.7615,2019-01-19,20:07:00,E-Wallet,522.63,4.3,Saturday,January,2019,Not Satisfied
+Alex,Member,Female,Sports and travel,52.260000000000005,10,26.13,548.73,2019-03-09,12:45:00,Credit card,522.6,6.2,Saturday,March,2019,Not Satisfied
+Giza,Normal,Male,Home and lifestyle,65.26,8,26.104,548.1840000000001,2019-03-15,14:04:00,E-Wallet,522.08,6.3,Friday,March,2019,Not Satisfied
+Alex,Normal,Male,Electronic accessories,74.58,7,26.103,548.1629999999999,2019-02-04,16:09:00,Credit card,522.06,9.0,Monday,February,2019,Satisfied
+Alex,Member,Male,Health and beauty,51.94,10,25.97,545.37,2019-03-09,18:24:00,E-Wallet,519.4,6.5,Saturday,March,2019,Not Satisfied
+Cairo,Normal,Female,Sports and travel,51.910000000000004,10,25.955,545.0550000000001,2019-02-16,12:21:00,Cash,519.1,8.2,Saturday,February,2019,Satisfied
+Giza,Normal,Female,Sports and travel,73.98,7,25.893,543.753,2019-03-02,16:42:00,E-Wallet,517.86,4.1,Saturday,March,2019,Not Satisfied
+Giza,Member,Female,Fashion accessories,73.38,7,25.683,539.343,2019-02-10,13:56:00,Cash,513.66,9.5,Sunday,February,2019,Satisfied
+Cairo,Normal,Male,Food and beverages,73.06,7,25.571,536.991,2019-01-14,19:06:00,Credit card,511.42,4.2,Monday,January,2019,Not Satisfied
+Giza,Member,Female,Home and lifestyle,63.91,8,25.564,536.8439999999999,2019-03-13,19:52:00,Credit card,511.28,4.6,Wednesday,March,2019,Not Satisfied
+Alex,Member,Female,Fashion accessories,63.88,8,25.552,536.592,2019-01-20,17:48:00,E-Wallet,511.04,9.9,Sunday,January,2019,Satisfied
+Cairo,Member,Female,Health and beauty,56.69,9,25.5105,535.7205,2019-02-27,17:24:00,Credit card,510.21,8.4,Wednesday,February,2019,Satisfied
+Cairo,Member,Female,Fashion accessories,72.84,7,25.494,535.374,2019-02-15,12:44:00,Cash,509.88,8.4,Friday,February,2019,Satisfied
+Alex,Normal,Female,Home and lifestyle,63.42,8,25.368,532.7280000000001,2019-03-11,12:55:00,E-Wallet,507.36,7.4,Monday,March,2019,Satisfied
+Alex,Member,Male,Electronic accessories,72.2,7,25.27,530.6700000000001,2019-03-26,20:14:00,E-Wallet,505.4,4.3,Tuesday,March,2019,Not Satisfied
+Cairo,Normal,Female,Food and beverages,84.05,6,25.215,529.515,2019-01-29,10:48:00,Credit card,504.3,7.7,Tuesday,January,2019,Satisfied
+Giza,Member,Female,Home and lifestyle,83.77,6,25.131,527.751,2019-01-23,12:10:00,E-Wallet,502.62,5.4,Wednesday,January,2019,Not Satisfied
+Cairo,Normal,Male,Health and beauty,71.77,7,25.1195,527.5095,2019-03-29,14:06:00,Cash,502.39,8.9,Friday,March,2019,Satisfied
+Alex,Member,Female,Fashion accessories,71.46000000000001,7,25.011,525.231,2019-03-28,16:06:00,E-Wallet,500.22,4.5,Thursday,March,2019,Not Satisfied
+Giza,Member,Female,Home and lifestyle,83.17,6,24.951,523.971,2019-03-20,11:23:00,Cash,499.02,7.3,Wednesday,March,2019,Satisfied
+Alex,Member,Male,Food and beverages,99.78,5,24.945,523.845,2019-03-09,19:09:00,Cash,498.9,5.4,Saturday,March,2019,Not Satisfied
+Cairo,Normal,Female,Food and beverages,99.69,5,24.9225,523.3725,2019-01-14,12:09:00,Cash,498.45,9.9,Monday,January,2019,Satisfied
+Cairo,Member,Female,Home and lifestyle,82.7,6,24.81,521.01,2019-03-05,18:14:00,Cash,496.2,7.4,Tuesday,March,2019,Satisfied
+Cairo,Member,Male,Health and beauty,62.0,8,24.8,520.8,2019-01-03,19:08:00,Credit card,496.0,6.2,Thursday,January,2019,Not Satisfied
+Cairo,Member,Female,Sports and travel,55.07,9,24.7815,520.4115,2019-02-03,13:40:00,E-Wallet,495.63,10.0,Sunday,February,2019,Satisfied
+Giza,Normal,Female,Sports and travel,49.33,10,24.665,517.9649999999999,2019-02-03,16:40:00,Credit card,493.3,9.4,Sunday,February,2019,Satisfied
+Alex,Normal,Male,Food and beverages,81.71,6,24.513,514.773,2019-01-27,14:36:00,Credit card,490.26,8.0,Sunday,January,2019,Satisfied
+Cairo,Normal,Female,Home and lifestyle,49.010000000000005,10,24.505,514.605,2019-01-27,10:44:00,Credit card,490.1,4.2,Sunday,January,2019,Not Satisfied
+Cairo,Normal,Female,Fashion accessories,54.31,9,24.4395,513.2295,2019-02-22,10:49:00,Cash,488.79,8.9,Friday,February,2019,Satisfied
+Giza,Normal,Female,Health and beauty,81.3,6,24.39,512.1899999999999,2019-03-08,16:43:00,E-Wallet,487.8,5.3,Friday,March,2019,Not Satisfied
+Alex,Member,Male,Sports and travel,69.52,7,24.332,510.972,2019-02-01,15:10:00,Credit card,486.64,8.5,Friday,February,2019,Satisfied
+Giza,Member,Female,Fashion accessories,54.07,9,24.3315,510.9615,2019-01-27,14:55:00,E-Wallet,486.63,9.5,Sunday,January,2019,Satisfied
+Alex,Member,Male,Health and beauty,48.63,10,24.315,510.615,2019-03-04,12:44:00,Cash,486.3,8.8,Monday,March,2019,Satisfied
+Giza,Normal,Female,Food and beverages,97.03,5,24.2575,509.40749999999997,2019-01-30,16:24:00,E-Wallet,485.15,9.3,Wednesday,January,2019,Satisfied
+Alex,Member,Male,Food and beverages,80.62,6,24.186,507.906,2019-02-28,20:18:00,Cash,483.72,9.1,Thursday,February,2019,Satisfied
+Alex,Member,Female,Fashion accessories,96.7,5,24.175,507.675,2019-01-14,12:52:00,E-Wallet,483.5,7.0,Monday,January,2019,Satisfied
+Giza,Normal,Female,Fashion accessories,60.41,8,24.164,507.44399999999996,2019-02-07,12:23:00,E-Wallet,483.28,9.6,Thursday,February,2019,Satisfied
+Alex,Member,Female,Health and beauty,68.92999999999999,7,24.1255,506.6354999999999,2019-03-11,11:03:00,Credit card,482.51,4.6,Monday,March,2019,Not Satisfied
+Alex,Member,Female,Health and beauty,95.95,5,23.9875,503.7375,2019-01-23,14:21:00,E-Wallet,479.75,8.8,Wednesday,January,2019,Satisfied
+Cairo,Member,Male,Sports and travel,79.92999999999999,6,23.979,503.5589999999999,2019-01-31,14:04:00,Cash,479.58,5.5,Thursday,January,2019,Not Satisfied
+Giza,Member,Female,Sports and travel,67.99,7,23.7965,499.72649999999993,2019-02-17,16:50:00,E-Wallet,475.93,5.7,Sunday,February,2019,Not Satisfied
+Giza,Normal,Female,Food and beverages,52.599999999999994,9,23.67,497.07,2019-01-16,14:42:00,Cash,473.4,7.6,Wednesday,January,2019,Satisfied
+Giza,Member,Male,Fashion accessories,67.39,7,23.5865,495.3165,2019-03-23,13:23:00,E-Wallet,471.73,6.9,Saturday,March,2019,Not Satisfied
+Alex,Member,Male,Home and lifestyle,58.9,8,23.56,494.76,2019-01-06,11:23:00,Cash,471.2,8.9,Sunday,January,2019,Satisfied
+Cairo,Member,Female,Fashion accessories,94.13,5,23.5325,494.1825,2019-02-25,19:39:00,Credit card,470.65,4.8,Monday,February,2019,Not Satisfied
+Alex,Member,Male,Home and lifestyle,78.38,6,23.514,493.794,2019-01-10,14:16:00,E-Wallet,470.28,5.8,Thursday,January,2019,Not Satisfied
+Alex,Normal,Female,Home and lifestyle,77.95,6,23.385,491.08500000000004,2019-01-21,16:37:00,E-Wallet,467.7,8.0,Monday,January,2019,Satisfied
+Alex,Member,Female,Health and beauty,58.22,8,23.288,489.048,2019-01-27,20:33:00,E-Wallet,465.76,8.4,Sunday,January,2019,Satisfied
+Giza,Member,Female,Electronic accessories,46.57,10,23.285,488.985,2019-01-27,13:58:00,Cash,465.7,7.6,Sunday,January,2019,Satisfied
+Cairo,Normal,Female,Electronic accessories,57.91,8,23.164,486.44399999999996,2019-02-07,15:06:00,Cash,463.28,8.1,Thursday,February,2019,Satisfied
+Giza,Member,Female,Fashion accessories,92.49,5,23.1225,485.5725,2019-03-02,16:35:00,Credit card,462.45,8.6,Saturday,March,2019,Satisfied
+Cairo,Member,Female,Health and beauty,76.99,6,23.097,485.0369999999999,2019-02-27,17:55:00,Cash,461.94,6.1,Wednesday,February,2019,Not Satisfied
+Giza,Normal,Female,Electronic accessories,51.32,9,23.094,484.974,2019-03-14,19:33:00,Cash,461.88,5.6,Thursday,March,2019,Not Satisfied
+Cairo,Normal,Male,Home and lifestyle,92.36,5,23.09,484.89,2019-03-20,19:17:00,E-Wallet,461.8,4.9,Wednesday,March,2019,Not Satisfied
+Alex,Member,Male,Food and beverages,92.28999999999999,5,23.0725,484.5224999999999,2019-02-20,15:55:00,Credit card,461.45,9.0,Wednesday,February,2019,Satisfied
+Giza,Member,Male,Health and beauty,65.31,7,22.8585,480.0285,2019-03-05,18:02:00,Credit card,457.17,4.2,Tuesday,March,2019,Not Satisfied
+Alex,Member,Female,Sports and travel,91.41,5,22.8525,479.9025,2019-02-25,16:03:00,E-Wallet,457.05,7.1,Monday,February,2019,Satisfied
+Alex,Normal,Female,Home and lifestyle,45.68,10,22.84,479.64,2019-01-19,19:30:00,E-Wallet,456.8,5.7,Saturday,January,2019,Not Satisfied
+Giza,Member,Female,Electronic accessories,75.91,6,22.773,478.233,2019-03-09,18:21:00,Cash,455.46,8.7,Saturday,March,2019,Satisfied
+Alex,Normal,Female,Electronic accessories,45.480000000000004,10,22.74,477.5400000000001,2019-03-01,10:22:00,Credit card,454.8,4.8,Friday,March,2019,Not Satisfied
+Giza,Member,Male,Food and beverages,50.49,9,22.7205,477.13050000000004,2019-01-10,17:16:00,Cash,454.41,5.4,Thursday,January,2019,Not Satisfied
+Cairo,Member,Female,Fashion accessories,56.47,8,22.588,474.348,2019-03-09,14:57:00,E-Wallet,451.76,7.3,Saturday,March,2019,Satisfied
+Giza,Normal,Male,Fashion accessories,64.26,7,22.491,472.31100000000004,2019-02-09,10:00:00,Cash,449.82,5.7,Saturday,February,2019,Not Satisfied
+Giza,Member,Female,Sports and travel,44.86,10,22.43,471.03000000000003,2019-01-26,19:54:00,E-Wallet,448.6,8.2,Saturday,January,2019,Satisfied
+Giza,Normal,Male,Health and beauty,64.08,7,22.428,470.988,2019-01-20,12:27:00,E-Wallet,448.56,7.6,Sunday,January,2019,Satisfied
+Cairo,Member,Female,Sports and travel,64.08,7,22.428,470.988,2019-02-19,19:29:00,Credit card,448.56,7.3,Tuesday,February,2019,Satisfied
+Cairo,Normal,Female,Electronic accessories,74.71,6,22.413,470.673,2019-01-01,19:07:00,Cash,448.26,6.7,Tuesday,January,2019,Not Satisfied
+Alex,Normal,Female,Sports and travel,89.47999999999999,5,22.37,469.77,2019-03-30,10:18:00,Cash,447.4,7.4,Saturday,March,2019,Satisfied
+Alex,Member,Male,Electronic accessories,74.51,6,22.353,469.41300000000007,2019-03-20,15:08:00,E-Wallet,447.06,5.0,Wednesday,March,2019,Not Satisfied
+Alex,Normal,Male,Food and beverages,73.88,6,22.164,465.44399999999996,2019-03-23,19:16:00,E-Wallet,443.28,4.4,Saturday,March,2019,Not Satisfied
+Cairo,Member,Female,Food and beverages,88.36,5,22.09,463.89,2019-01-25,19:48:00,Cash,441.8,9.6,Friday,January,2019,Satisfied
+Giza,Member,Female,Fashion accessories,49.04,9,22.068,463.428,2019-01-09,14:20:00,Credit card,441.36,8.6,Wednesday,January,2019,Satisfied
+Alex,Member,Female,Fashion accessories,48.96,9,22.032,462.67199999999997,2019-03-04,11:27:00,Cash,440.64,8.0,Monday,March,2019,Satisfied
+Alex,Member,Male,Sports and travel,44.019999999999996,10,22.01,462.2099999999999,2019-03-20,19:57:00,Credit card,440.2,9.6,Wednesday,March,2019,Satisfied
+Giza,Member,Male,Electronic accessories,87.91,5,21.9775,461.5275,2019-03-14,18:10:00,E-Wallet,439.55,4.4,Thursday,March,2019,Not Satisfied
+Giza,Member,Female,Health and beauty,54.92,8,21.968,461.32800000000003,2019-03-23,13:24:00,E-Wallet,439.36,7.6,Saturday,March,2019,Satisfied
+Alex,Normal,Male,Home and lifestyle,73.22,6,21.966,461.286,2019-01-21,17:44:00,Cash,439.32,7.2,Monday,January,2019,Satisfied
+Alex,Member,Female,Home and lifestyle,87.37,5,21.8425,458.6925,2019-01-29,19:45:00,Cash,436.85,6.6,Tuesday,January,2019,Not Satisfied
+Alex,Member,Female,Sports and travel,72.61,6,21.783,457.443,2019-01-01,10:39:00,Credit card,435.66,6.9,Tuesday,January,2019,Not Satisfied
+Cairo,Member,Male,Sports and travel,72.60000000000001,6,21.78,457.38,2019-01-13,19:51:00,Cash,435.6,6.9,Sunday,January,2019,Not Satisfied
+Cairo,Normal,Male,Food and beverages,62.08,7,21.728,456.288,2019-03-06,13:46:00,E-Wallet,434.56,5.4,Wednesday,March,2019,Not Satisfied
+Giza,Member,Male,Home and lifestyle,86.69,5,21.6725,455.1225,2019-02-11,18:38:00,E-Wallet,433.45,9.4,Monday,February,2019,Satisfied
+Alex,Member,Male,Fashion accessories,43.13,10,21.565,452.865,2019-02-02,18:31:00,Credit card,431.3,5.5,Saturday,February,2019,Not Satisfied
+Giza,Member,Female,Electronic accessories,86.03999999999999,5,21.51,451.7099999999999,2019-02-25,11:24:00,E-Wallet,430.2,4.8,Monday,February,2019,Not Satisfied
+Giza,Normal,Male,Electronic accessories,61.410000000000004,7,21.4935,451.3635,2019-01-14,10:02:00,Cash,429.87,9.8,Monday,January,2019,Satisfied
+Alex,Normal,Male,Sports and travel,85.91,5,21.4775,451.0275,2019-03-22,14:33:00,Credit card,429.55,8.6,Friday,March,2019,Satisfied
+Alex,Member,Female,Food and beverages,47.63,9,21.4335,450.1035,2019-01-23,12:35:00,Cash,428.67,5.0,Wednesday,January,2019,Not Satisfied
+Cairo,Normal,Female,Food and beverages,53.21,8,21.284,446.964,2019-03-14,16:45:00,E-Wallet,425.68,5.0,Thursday,March,2019,Not Satisfied
+Giza,Normal,Male,Fashion accessories,60.74,7,21.259,446.439,2019-01-18,16:23:00,E-Wallet,425.18,5.0,Friday,January,2019,Not Satisfied
+Giza,Normal,Male,Health and beauty,70.21,6,21.063,442.323,2019-03-30,14:58:00,Cash,421.26,7.4,Saturday,March,2019,Satisfied
+Alex,Member,Female,Home and lifestyle,52.59,8,21.036,441.75600000000003,2019-03-22,19:20:00,Credit card,420.72,8.5,Friday,March,2019,Satisfied
+Giza,Normal,Female,Home and lifestyle,70.11,6,21.033,441.693,2019-03-14,17:54:00,E-Wallet,420.66,5.2,Thursday,March,2019,Not Satisfied
+Cairo,Member,Female,Sports and travel,60.08,7,21.028,441.588,2019-02-14,11:36:00,Credit card,420.56,4.5,Thursday,February,2019,Not Satisfied
+Giza,Normal,Female,Sports and travel,46.66,9,20.997,440.93699999999995,2019-02-17,19:11:00,E-Wallet,419.94,5.3,Sunday,February,2019,Not Satisfied
+Cairo,Member,Male,Food and beverages,46.55,9,20.9475,439.8975,2019-02-02,15:34:00,E-Wallet,418.95,6.4,Saturday,February,2019,Not Satisfied
+Giza,Normal,Female,Health and beauty,83.66,5,20.915,439.215,2019-02-21,10:26:00,Cash,418.3,7.2,Thursday,February,2019,Satisfied
+Giza,Member,Female,Electronic accessories,41.65,10,20.825,437.325,2019-01-13,17:04:00,Credit card,416.5,5.4,Sunday,January,2019,Not Satisfied
+Cairo,Member,Female,Sports and travel,69.12,6,20.736,435.456,2019-02-08,13:03:00,Cash,414.72,5.6,Friday,February,2019,Not Satisfied
+Cairo,Normal,Female,Health and beauty,82.88,5,20.72,435.12,2019-03-24,14:08:00,Credit card,414.4,6.6,Sunday,March,2019,Not Satisfied
+Alex,Normal,Male,Sports and travel,58.910000000000004,7,20.6185,432.9885,2019-01-17,15:15:00,E-Wallet,412.37,9.7,Thursday,January,2019,Satisfied
+Alex,Member,Female,Sports and travel,51.52,8,20.608,432.76800000000003,2019-02-02,15:47:00,Cash,412.16,9.6,Saturday,February,2019,Satisfied
+Cairo,Normal,Female,Fashion accessories,41.089999999999996,10,20.545,431.445,2019-02-28,14:42:00,Cash,410.9,7.3,Thursday,February,2019,Satisfied
+Alex,Member,Male,Fashion accessories,51.34,8,20.536,431.25600000000003,2019-01-31,10:00:00,E-Wallet,410.72,7.6,Thursday,January,2019,Satisfied
+Cairo,Member,Female,Home and lifestyle,82.03999999999999,5,20.51,430.7099999999999,2019-02-25,17:16:00,Credit card,410.2,7.6,Monday,February,2019,Satisfied
+Giza,Member,Male,Sports and travel,58.39,7,20.4365,429.16650000000004,2019-02-23,19:49:00,Credit card,408.73,8.2,Saturday,February,2019,Satisfied
+Alex,Normal,Male,Home and lifestyle,50.93,8,20.372,427.812,2019-03-22,19:36:00,E-Wallet,407.44,9.2,Friday,March,2019,Satisfied
+Giza,Member,Female,Electronic accessories,44.84,9,20.178,423.73800000000006,2019-01-14,14:00:00,Credit card,403.56,7.5,Monday,January,2019,Satisfied
+Cairo,Member,Male,Electronic accessories,40.3,10,20.15,423.15,2019-01-24,17:37:00,Credit card,403.0,7.0,Thursday,January,2019,Satisfied
+Alex,Normal,Female,Electronic accessories,40.260000000000005,10,20.13,422.73,2019-02-24,18:06:00,Credit card,402.6,5.0,Sunday,February,2019,Not Satisfied
+Cairo,Member,Male,Food and beverages,80.05,5,20.0125,420.2625,2019-01-26,12:45:00,Credit card,400.25,9.4,Saturday,January,2019,Satisfied
+Giza,Member,Female,Sports and travel,57.12,7,19.992,419.832,2019-01-12,12:02:00,Credit card,399.84,6.5,Saturday,January,2019,Not Satisfied
+Cairo,Normal,Male,Food and beverages,39.9,10,19.95,418.95,2019-02-20,15:24:00,Credit card,399.0,5.9,Wednesday,February,2019,Not Satisfied
+Giza,Member,Female,Food and beverages,99.42,4,19.884,417.564,2019-02-06,10:42:00,E-Wallet,397.68,7.5,Wednesday,February,2019,Satisfied
+Alex,Normal,Female,Electronic accessories,66.06,6,19.818,416.178,2019-01-23,10:28:00,Cash,396.36,7.3,Wednesday,January,2019,Satisfied
+Cairo,Member,Male,Home and lifestyle,65.91,6,19.773,415.233,2019-02-09,11:45:00,Cash,395.46,5.7,Saturday,February,2019,Not Satisfied
+Cairo,Member,Female,Health and beauty,55.970000000000006,7,19.5895,411.3795,2019-03-05,19:06:00,E-Wallet,391.79,8.9,Tuesday,March,2019,Satisfied
+Cairo,Normal,Male,Sports and travel,97.74,4,19.548,410.508,2019-03-12,19:53:00,E-Wallet,390.96,6.4,Tuesday,March,2019,Not Satisfied
+Giza,Normal,Male,Home and lifestyle,55.61,7,19.4635,408.7335,2019-03-23,12:41:00,Cash,389.27,8.5,Saturday,March,2019,Satisfied
+Giza,Normal,Male,Fashion accessories,97.26,4,19.452,408.492,2019-03-16,15:33:00,E-Wallet,389.04,6.8,Saturday,March,2019,Not Satisfied
+Alex,Member,Female,Electronic accessories,48.62,8,19.448,408.40799999999996,2019-01-24,10:57:00,Cash,388.96,5.0,Thursday,January,2019,Not Satisfied
+Giza,Member,Male,Fashion accessories,96.98,4,19.396,407.31600000000003,2019-02-06,17:20:00,E-Wallet,387.92,9.4,Wednesday,February,2019,Satisfied
+Alex,Normal,Female,Health and beauty,77.5,5,19.375,406.875,2019-01-24,20:36:00,E-Wallet,387.5,4.3,Thursday,January,2019,Not Satisfied
+Cairo,Member,Female,Food and beverages,42.82,9,19.269,404.649,2019-02-05,15:26:00,Credit card,385.38,8.9,Tuesday,February,2019,Satisfied
+Giza,Member,Male,Food and beverages,55.04,7,19.264,404.544,2019-03-12,19:39:00,E-Wallet,385.28,5.2,Tuesday,March,2019,Not Satisfied
+Alex,Normal,Male,Fashion accessories,77.02000000000001,5,19.255,404.355,2019-02-03,15:59:00,Cash,385.1,5.5,Sunday,February,2019,Not Satisfied
+Cairo,Member,Male,Health and beauty,96.16,4,19.232,403.87199999999996,2019-01-27,20:03:00,Credit card,384.64,8.4,Sunday,January,2019,Satisfied
+Cairo,Member,Female,Fashion accessories,54.730000000000004,7,19.1555,402.26550000000003,2019-03-14,19:02:00,Credit card,383.11,8.5,Thursday,March,2019,Satisfied
+Giza,Member,Female,Fashion accessories,76.52000000000001,5,19.13,401.73,2019-03-25,10:23:00,Cash,382.6,9.9,Monday,March,2019,Satisfied
+Cairo,Normal,Female,Electronic accessories,95.64,4,19.128,401.688,2019-03-16,18:51:00,Cash,382.56,7.9,Saturday,March,2019,Satisfied
+Cairo,Member,Female,Sports and travel,95.54,4,19.108,401.26800000000003,2019-02-26,11:58:00,E-Wallet,382.16,4.5,Tuesday,February,2019,Not Satisfied
+Giza,Normal,Female,Fashion accessories,95.42,4,19.084,400.764,2019-02-02,13:23:00,E-Wallet,381.68,6.4,Saturday,February,2019,Not Satisfied
+Alex,Member,Male,Home and lifestyle,47.59,8,19.036,399.75600000000003,2019-01-01,14:47:00,Cash,380.72,5.7,Tuesday,January,2019,Not Satisfied
+Alex,Normal,Female,Fashion accessories,54.279999999999994,7,18.998,398.95799999999997,2019-01-27,18:05:00,E-Wallet,379.96,9.3,Sunday,January,2019,Satisfied
+Cairo,Normal,Female,Fashion accessories,37.95,10,18.975,398.475,2019-01-26,14:51:00,Cash,379.5,9.7,Saturday,January,2019,Satisfied
+Alex,Normal,Female,Sports and travel,94.76,4,18.952,397.992,2019-02-11,16:06:00,E-Wallet,379.04,7.8,Monday,February,2019,Satisfied
+Cairo,Normal,Female,Home and lifestyle,63.15,6,18.945,397.84499999999997,2019-01-03,20:24:00,E-Wallet,378.9,9.8,Thursday,January,2019,Satisfied
+Alex,Normal,Female,Fashion accessories,94.67,4,18.934,397.61400000000003,2019-03-11,12:04:00,Cash,378.68,6.8,Monday,March,2019,Not Satisfied
+Cairo,Normal,Male,Electronic accessories,75.66,5,18.915,397.215,2019-01-15,18:22:00,E-Wallet,378.3,7.8,Tuesday,January,2019,Satisfied
+Giza,Member,Male,Food and beverages,94.26,4,18.852,395.892,2019-03-12,16:30:00,Cash,377.04,8.6,Tuesday,March,2019,Satisfied
+Cairo,Member,Female,Electronic accessories,93.96,4,18.792,394.63199999999995,2019-03-09,18:00:00,Cash,375.84,9.5,Saturday,March,2019,Satisfied
+Alex,Member,Female,Fashion accessories,53.65,7,18.7775,394.3275,2019-02-10,12:56:00,E-Wallet,375.55,5.2,Sunday,February,2019,Not Satisfied
+Giza,Normal,Female,Fashion accessories,37.55,10,18.775,394.275,2019-03-08,20:01:00,Credit card,375.5,9.3,Friday,March,2019,Satisfied
+Giza,Member,Male,Electronic accessories,74.78999999999999,5,18.6975,392.6474999999999,2019-01-10,11:34:00,Cash,373.95,4.9,Thursday,January,2019,Not Satisfied
+Alex,Member,Female,Sports and travel,62.129999999999995,6,18.639,391.419,2019-03-22,20:19:00,Cash,372.78,7.4,Friday,March,2019,Satisfied
+Giza,Normal,Male,Health and beauty,53.19,7,18.6165,390.94649999999996,2019-01-14,15:42:00,E-Wallet,372.33,5.0,Monday,January,2019,Not Satisfied
+Alex,Member,Male,Health and beauty,53.17,7,18.6095,390.7995,2019-01-21,18:01:00,Cash,372.19,8.9,Monday,January,2019,Satisfied
+Giza,Member,Female,Sports and travel,36.980000000000004,10,18.49,388.2900000000001,2019-01-01,19:48:00,Credit card,369.8,7.0,Tuesday,January,2019,Satisfied
+Cairo,Normal,Male,Home and lifestyle,73.28,5,18.32,384.71999999999997,2019-01-24,15:05:00,E-Wallet,366.4,8.4,Thursday,January,2019,Satisfied
+Cairo,Member,Female,Fashion accessories,91.54,4,18.308,384.468,2019-03-23,19:20:00,Credit card,366.16,4.8,Saturday,March,2019,Not Satisfied
+Cairo,Member,Male,Fashion accessories,40.61,9,18.2745,383.7645,2019-01-02,13:40:00,Cash,365.49,7.0,Wednesday,January,2019,Satisfied
+Cairo,Member,Female,Home and lifestyle,52.18,7,18.263,383.52299999999997,2019-03-09,10:54:00,Cash,365.26,9.3,Saturday,March,2019,Satisfied
+Giza,Member,Female,Fashion accessories,51.89,7,18.1615,381.3915,2019-01-08,20:08:00,Cash,363.23,4.5,Tuesday,January,2019,Not Satisfied
+Alex,Normal,Male,Electronic accessories,51.69,7,18.0915,379.9215,2019-01-26,18:22:00,Cash,361.83,5.5,Saturday,January,2019,Not Satisfied
+Giza,Member,Male,Sports and travel,71.92,5,17.98,377.58000000000004,2019-01-17,15:05:00,Credit card,359.6,4.3,Thursday,January,2019,Not Satisfied
+Cairo,Normal,Female,Home and lifestyle,51.07,7,17.8745,375.3645,2019-01-12,11:42:00,Cash,357.49,7.0,Saturday,January,2019,Satisfied
+Giza,Member,Female,Food and beverages,71.39,5,17.8475,374.7975,2019-02-17,19:57:00,Credit card,356.95,5.5,Sunday,February,2019,Not Satisfied
+Alex,Member,Female,Health and beauty,39.62,9,17.829,374.409,2019-01-13,17:54:00,Credit card,356.58,6.8,Sunday,January,2019,Not Satisfied
+Cairo,Member,Female,Food and beverages,89.14,4,17.828,374.388,2019-01-07,12:20:00,Credit card,356.56,7.8,Monday,January,2019,Satisfied
+Alex,Member,Female,Home and lifestyle,35.54,10,17.77,373.16999999999996,2019-01-04,13:34:00,E-Wallet,355.4,7.0,Friday,January,2019,Satisfied
+Cairo,Member,Female,Fashion accessories,58.75,6,17.625,370.125,2019-03-24,18:14:00,Credit card,352.5,5.9,Sunday,March,2019,Not Satisfied
+Giza,Normal,Female,Home and lifestyle,44.01,8,17.604,369.68399999999997,2019-03-03,17:36:00,Cash,352.08,8.8,Sunday,March,2019,Satisfied
+Giza,Member,Male,Fashion accessories,35.19,10,17.595,369.495,2019-03-17,19:06:00,Credit card,351.9,8.4,Sunday,March,2019,Satisfied
+Alex,Normal,Male,Health and beauty,70.01,5,17.5025,367.5525,2019-01-03,11:36:00,E-Wallet,350.05,5.5,Thursday,January,2019,Not Satisfied
+Alex,Member,Female,Food and beverages,58.26,6,17.478,367.038,2019-03-28,16:44:00,Cash,349.56,9.9,Thursday,March,2019,Satisfied
+Alex,Member,Female,Sports and travel,38.72,9,17.424,365.904,2019-03-20,12:24:00,E-Wallet,348.48,4.2,Wednesday,March,2019,Not Satisfied
+Cairo,Normal,Female,Sports and travel,57.949999999999996,6,17.385,365.085,2019-02-24,13:02:00,Cash,347.7,5.2,Sunday,February,2019,Not Satisfied
+Alex,Member,Female,Food and beverages,49.38,7,17.283,362.94300000000004,2019-03-27,20:35:00,Credit card,345.66,7.3,Wednesday,March,2019,Satisfied
+Cairo,Normal,Male,Health and beauty,57.59,6,17.277,362.817,2019-02-15,13:51:00,Cash,345.54,5.1,Friday,February,2019,Not Satisfied
+Giza,Normal,Female,Food and beverages,43.18,8,17.272,362.712,2019-01-19,19:39:00,Credit card,345.44,8.3,Saturday,January,2019,Satisfied
+Giza,Normal,Female,Food and beverages,57.29,6,17.187,360.927,2019-03-21,17:04:00,E-Wallet,343.74,5.9,Thursday,March,2019,Not Satisfied
+Cairo,Normal,Male,Sports and travel,34.37,10,17.185,360.885,2019-03-16,10:11:00,E-Wallet,343.7,6.7,Saturday,March,2019,Not Satisfied
+Cairo,Normal,Female,Health and beauty,34.21,10,17.105,359.20500000000004,2019-01-02,13:00:00,Cash,342.1,5.1,Wednesday,January,2019,Not Satisfied
+Cairo,Member,Male,Health and beauty,42.57,8,17.028,357.588,2019-02-25,14:12:00,E-Wallet,340.56,5.6,Monday,February,2019,Not Satisfied
+Cairo,Normal,Female,Food and beverages,48.51,7,16.9785,356.5485,2019-01-25,13:30:00,Credit card,339.57,5.2,Friday,January,2019,Not Satisfied
+Cairo,Normal,Female,Electronic accessories,42.42,8,16.968,356.32800000000003,2019-01-30,13:58:00,E-Wallet,339.36,5.7,Wednesday,January,2019,Not Satisfied
+Cairo,Normal,Female,Sports and travel,67.42999999999999,5,16.8575,354.0075,2019-03-06,18:13:00,E-Wallet,337.15,6.3,Wednesday,March,2019,Not Satisfied
+Cairo,Normal,Male,Sports and travel,67.27000000000001,5,16.8175,353.1675,2019-02-27,17:27:00,Cash,336.35,6.9,Wednesday,February,2019,Not Satisfied
+Giza,Normal,Male,Electronic accessories,84.07,4,16.814,353.094,2019-03-07,16:54:00,E-Wallet,336.28,4.4,Thursday,March,2019,Not Satisfied
+Cairo,Member,Male,Sports and travel,37.32,9,16.794,352.674,2019-03-06,15:31:00,E-Wallet,335.88,5.1,Wednesday,March,2019,Not Satisfied
+Cairo,Normal,Male,Fashion accessories,47.970000000000006,7,16.7895,352.5795,2019-01-07,20:52:00,Cash,335.79,6.2,Monday,January,2019,Not Satisfied
+Alex,Normal,Female,Home and lifestyle,67.09,5,16.7725,352.2225,2019-01-03,16:47:00,Credit card,335.45,9.1,Thursday,January,2019,Satisfied
+Cairo,Normal,Female,Health and beauty,55.81,6,16.743,351.603,2019-01-22,11:52:00,Cash,334.86,9.9,Tuesday,January,2019,Satisfied
+Giza,Member,Female,Home and lifestyle,55.73,6,16.719,351.099,2019-02-24,10:55:00,E-Wallet,334.38,7.0,Sunday,February,2019,Satisfied
+Cairo,Normal,Male,Health and beauty,66.67999999999999,5,16.67,350.07,2019-02-20,18:01:00,Cash,333.4,7.6,Wednesday,February,2019,Satisfied
+Cairo,Member,Female,Food and beverages,33.21,10,16.605,348.70500000000004,2019-01-08,14:25:00,E-Wallet,332.1,6.0,Tuesday,January,2019,Not Satisfied
+Giza,Member,Male,Sports and travel,82.93,4,16.586,348.30600000000004,2019-01-20,16:51:00,E-Wallet,331.72,9.6,Sunday,January,2019,Satisfied
+Alex,Member,Male,Sports and travel,82.33,4,16.466,345.786,2019-01-11,10:37:00,Credit card,329.32,7.5,Friday,January,2019,Satisfied
+Cairo,Normal,Female,Fashion accessories,36.51,9,16.4295,345.0195,2019-02-16,10:52:00,Cash,328.59,4.2,Saturday,February,2019,Not Satisfied
+Giza,Normal,Female,Electronic accessories,32.8,10,16.4,344.4,2019-02-15,12:12:00,Cash,328.0,6.2,Friday,February,2019,Not Satisfied
+Cairo,Normal,Female,Sports and travel,54.51,6,16.353,343.413,2019-03-17,13:54:00,E-Wallet,327.06,7.8,Sunday,March,2019,Satisfied
+Giza,Normal,Female,Electronic accessories,40.86,8,16.344,343.224,2019-02-07,14:38:00,Credit card,326.88,6.5,Thursday,February,2019,Not Satisfied
+Giza,Normal,Female,Fashion accessories,81.68,4,16.336,343.05600000000004,2019-01-06,12:12:00,Cash,326.72,9.1,Sunday,January,2019,Satisfied
+Giza,Member,Female,Sports and travel,64.97,5,16.2425,341.09250000000003,2019-02-08,12:52:00,Credit card,324.85,6.5,Friday,February,2019,Not Satisfied
+Alex,Normal,Female,Home and lifestyle,46.33,7,16.2155,340.5255,2019-03-03,13:23:00,Credit card,324.31,7.4,Sunday,March,2019,Satisfied
+Alex,Normal,Female,Health and beauty,32.32,10,16.16,339.36,2019-02-20,16:49:00,Credit card,323.2,10.0,Wednesday,February,2019,Satisfied
+Alex,Member,Female,Electronic accessories,64.44,5,16.11,338.31,2019-03-30,17:04:00,Cash,322.2,6.6,Saturday,March,2019,Not Satisfied
+Giza,Member,Female,Home and lifestyle,35.79,9,16.1055,338.2155,2019-03-10,15:06:00,Credit card,322.11,5.1,Sunday,March,2019,Not Satisfied
+Giza,Member,Female,Food and beverages,80.36,4,16.072,337.512,2019-02-23,18:45:00,Credit card,321.44,8.3,Saturday,February,2019,Satisfied
+Alex,Normal,Male,Food and beverages,45.79,7,16.0265,336.55649999999997,2019-03-13,19:44:00,Credit card,320.53,7.0,Wednesday,March,2019,Satisfied
+Cairo,Member,Male,Sports and travel,31.99,10,15.995,335.895,2019-02-20,15:18:00,Credit card,319.9,9.9,Wednesday,February,2019,Satisfied
+Alex,Normal,Male,Sports and travel,45.58,7,15.953,335.013,2019-01-13,10:03:00,Cash,319.06,5.0,Sunday,January,2019,Not Satisfied
+Cairo,Normal,Female,Fashion accessories,63.71,5,15.9275,334.4775,2019-02-07,19:30:00,E-Wallet,318.55,8.5,Thursday,February,2019,Satisfied
+Cairo,Member,Female,Home and lifestyle,35.38,9,15.921,334.341,2019-01-05,19:50:00,Credit card,318.42,9.6,Saturday,January,2019,Satisfied
+Giza,Normal,Female,Fashion accessories,45.44,7,15.904,333.984,2019-01-23,11:15:00,Cash,318.08,9.2,Wednesday,January,2019,Satisfied
+Alex,Normal,Female,Food and beverages,63.61,5,15.9025,333.9525,2019-03-16,12:43:00,E-Wallet,318.05,4.8,Saturday,March,2019,Not Satisfied
+Cairo,Member,Male,Electronic accessories,52.88999999999999,6,15.867,333.207,2019-01-19,17:34:00,Credit card,317.34,9.8,Saturday,January,2019,Satisfied
+Alex,Member,Male,Food and beverages,35.04,9,15.768,331.12800000000004,2019-02-09,19:17:00,E-Wallet,315.36,4.6,Saturday,February,2019,Not Satisfied
+Giza,Member,Female,Home and lifestyle,78.38,4,15.676,329.19599999999997,2019-03-24,17:56:00,Cash,313.52,7.9,Sunday,March,2019,Satisfied
+Alex,Member,Female,Sports and travel,62.620000000000005,5,15.655,328.755,2019-03-10,19:15:00,E-Wallet,313.1,7.0,Sunday,March,2019,Satisfied
+Alex,Member,Male,Electronic accessories,77.72,4,15.544,326.424,2019-01-07,16:11:00,Credit card,310.88,8.8,Monday,January,2019,Satisfied
+Alex,Member,Female,Health and beauty,77.68,4,15.536,326.25600000000003,2019-02-01,19:54:00,Cash,310.72,8.4,Friday,February,2019,Satisfied
+Alex,Normal,Female,Home and lifestyle,77.47,4,15.494,325.374,2019-03-17,16:36:00,Cash,309.88,4.2,Sunday,March,2019,Not Satisfied
+Alex,Normal,Female,Fashion accessories,61.77,5,15.4425,324.2925,2019-03-08,13:21:00,Cash,308.85,6.7,Friday,March,2019,Not Satisfied
+Giza,Member,Male,Food and beverages,38.47,8,15.388,323.14799999999997,2019-01-23,11:51:00,Cash,307.76,7.7,Wednesday,January,2019,Satisfied
+Alex,Normal,Male,Food and beverages,51.28,6,15.384,323.064,2019-01-19,16:31:00,Cash,307.68,6.5,Saturday,January,2019,Not Satisfied
+Cairo,Member,Male,Health and beauty,61.29,5,15.3225,321.7725,2019-03-29,14:28:00,Cash,306.45,7.0,Friday,March,2019,Satisfied
+Giza,Member,Female,Food and beverages,33.98,9,15.291,321.111,2019-03-24,10:43:00,Cash,305.82,4.2,Sunday,March,2019,Not Satisfied
+Alex,Member,Male,Home and lifestyle,33.84,9,15.228,319.78800000000007,2019-03-21,16:21:00,E-Wallet,304.56,8.8,Thursday,March,2019,Satisfied
+Cairo,Member,Female,Health and beauty,75.74,4,15.148,318.108,2019-02-14,14:35:00,Cash,302.96,7.6,Thursday,February,2019,Satisfied
+Cairo,Member,Male,Electronic accessories,50.449999999999996,6,15.135,317.835,2019-02-06,15:16:00,Credit card,302.7,8.9,Wednesday,February,2019,Satisfied
+Giza,Member,Female,Home and lifestyle,75.53,4,15.106,317.226,2019-03-19,15:52:00,E-Wallet,302.12,8.3,Tuesday,March,2019,Satisfied
+Alex,Member,Female,Fashion accessories,30.139999999999997,10,15.07,316.46999999999997,2019-02-10,12:28:00,E-Wallet,301.4,9.2,Sunday,February,2019,Satisfied
+Alex,Normal,Female,Home and lifestyle,33.3,9,14.985,314.685,2019-03-04,15:27:00,E-Wallet,299.7,7.2,Monday,March,2019,Satisfied
+Giza,Member,Female,Food and beverages,74.89,4,14.978,314.538,2019-03-01,15:32:00,E-Wallet,299.56,4.2,Friday,March,2019,Not Satisfied
+Cairo,Normal,Male,Home and lifestyle,99.7,3,14.955,314.055,2019-03-18,11:29:00,E-Wallet,299.1,4.7,Monday,March,2019,Not Satisfied
+Alex,Member,Female,Food and beverages,99.60000000000001,3,14.94,313.74,2019-02-25,18:45:00,Cash,298.8,5.8,Monday,February,2019,Not Satisfied
+Alex,Normal,Female,Food and beverages,74.66,4,14.932,313.572,2019-03-04,10:39:00,Cash,298.64,8.5,Monday,March,2019,Satisfied
+Alex,Normal,Female,Fashion accessories,42.57,7,14.8995,312.8895,2019-01-06,11:51:00,Cash,297.99,6.8,Sunday,January,2019,Not Satisfied
+Cairo,Member,Female,Food and beverages,98.79,3,14.8185,311.1885,2019-02-23,20:00:00,E-Wallet,296.37,6.4,Saturday,February,2019,Not Satisfied
+Giza,Normal,Female,Fashion accessories,49.32,6,14.796,310.716,2019-01-09,13:46:00,E-Wallet,295.92,7.1,Wednesday,January,2019,Satisfied
+Giza,Normal,Female,Sports and travel,73.95,4,14.79,310.59000000000003,2019-02-03,10:02:00,Cash,295.8,6.1,Sunday,February,2019,Not Satisfied
+Cairo,Member,Male,Fashion accessories,73.82,4,14.764,310.044,2019-02-21,18:31:00,Cash,295.28,6.7,Thursday,February,2019,Not Satisfied
+Giza,Member,Female,Health and beauty,98.21,3,14.7315,309.3615,2019-02-05,10:41:00,Credit card,294.63,7.8,Tuesday,February,2019,Satisfied
+Alex,Normal,Female,Fashion accessories,29.419999999999998,10,14.71,308.90999999999997,2019-01-12,16:23:00,E-Wallet,294.2,8.9,Saturday,January,2019,Satisfied
+Alex,Member,Female,Food and beverages,73.47,4,14.694,308.574,2019-02-23,18:30:00,Cash,293.88,6.0,Saturday,February,2019,Not Satisfied
+Alex,Normal,Female,Fashion accessories,73.05,4,14.61,306.81,2019-02-25,17:16:00,Credit card,292.2,4.9,Monday,February,2019,Not Satisfied
+Alex,Member,Male,Food and beverages,48.5,6,14.55,305.55,2019-01-11,13:57:00,E-Wallet,291.0,9.4,Friday,January,2019,Satisfied
+Giza,Member,Male,Electronic accessories,96.82,3,14.523,304.983,2019-03-30,20:37:00,Cash,290.46,6.7,Saturday,March,2019,Not Satisfied
+Cairo,Member,Male,Sports and travel,96.8,3,14.52,304.91999999999996,2019-03-15,13:05:00,Cash,290.4,5.3,Friday,March,2019,Not Satisfied
+Cairo,Member,Female,Food and beverages,96.68,3,14.502,304.54200000000003,2019-01-26,19:56:00,E-Wallet,290.04,6.4,Saturday,January,2019,Not Satisfied
+Giza,Member,Female,Health and beauty,47.71,6,14.313,300.573,2019-02-16,14:19:00,E-Wallet,286.26,4.4,Saturday,February,2019,Not Satisfied
+Cairo,Member,Female,Electronic accessories,35.74,8,14.296,300.216,2019-02-17,15:28:00,E-Wallet,285.92,4.9,Sunday,February,2019,Not Satisfied
+Giza,Member,Female,Fashion accessories,31.73,9,14.2785,299.8485,2019-01-08,16:17:00,Credit card,285.57,5.9,Tuesday,January,2019,Not Satisfied
+Giza,Member,Female,Home and lifestyle,28.53,10,14.265,299.565,2019-03-18,17:38:00,E-Wallet,285.3,7.8,Monday,March,2019,Satisfied
+Cairo,Member,Female,Home and lifestyle,40.730000000000004,7,14.2555,299.3655,2019-03-12,11:01:00,E-Wallet,285.11,5.4,Tuesday,March,2019,Not Satisfied
+Alex,Member,Female,Electronic accessories,94.64,3,14.196,298.11600000000004,2019-02-21,16:55:00,Cash,283.92,5.5,Thursday,February,2019,Not Satisfied
+Giza,Member,Female,Food and beverages,47.27,6,14.181,297.801,2019-02-05,10:17:00,Cash,283.62,8.8,Tuesday,February,2019,Satisfied
+Alex,Member,Male,Home and lifestyle,70.74,4,14.148,297.108,2019-01-05,16:05:00,Credit card,282.96,4.4,Saturday,January,2019,Not Satisfied
+Alex,Normal,Female,Food and beverages,56.56,5,14.14,296.94,2019-03-22,19:06:00,Credit card,282.8,4.5,Friday,March,2019,Not Satisfied
+Alex,Normal,Female,Sports and travel,40.230000000000004,7,14.0805,295.69050000000004,2019-03-30,13:22:00,Cash,281.61,9.6,Saturday,March,2019,Satisfied
+Alex,Member,Male,Electronic accessories,93.77999999999999,3,14.067,295.407,2019-01-30,11:32:00,Credit card,281.34,5.9,Wednesday,January,2019,Not Satisfied
+Giza,Normal,Male,Food and beverages,46.77,6,14.031,294.651,2019-03-11,13:37:00,Cash,280.62,6.0,Monday,March,2019,Not Satisfied
+Cairo,Member,Male,Fashion accessories,93.22000000000001,3,13.983,293.64300000000003,2019-01-24,11:45:00,Cash,279.66,7.2,Thursday,January,2019,Satisfied
+Giza,Normal,Female,Home and lifestyle,69.81,4,13.962,293.202,2019-01-28,20:50:00,Credit card,279.24,5.9,Monday,January,2019,Not Satisfied
+Giza,Member,Male,Health and beauty,46.53,6,13.959,293.139,2019-03-03,10:54:00,Credit card,279.18,4.3,Sunday,March,2019,Not Satisfied
+Giza,Normal,Female,Health and beauty,46.26,6,13.878,291.438,2019-03-08,17:11:00,Credit card,277.56,9.5,Friday,March,2019,Satisfied
+Cairo,Normal,Female,Fashion accessories,39.62,7,13.867,291.207,2019-01-25,13:18:00,Cash,277.34,7.5,Friday,January,2019,Satisfied
+Giza,Member,Male,Food and beverages,27.660000000000004,10,13.83,290.43,2019-02-14,11:26:00,Credit card,276.6,8.9,Thursday,February,2019,Satisfied
+Alex,Member,Female,Health and beauty,92.08999999999999,3,13.8135,290.08349999999996,2019-02-17,16:27:00,Cash,276.27,4.2,Sunday,February,2019,Not Satisfied
+Cairo,Normal,Male,Electronic accessories,46.02,6,13.806,289.926,2019-02-07,15:55:00,Cash,276.12,7.1,Thursday,February,2019,Satisfied
+Cairo,Member,Female,Fashion accessories,68.71,4,13.742,288.582,2019-01-04,19:01:00,Cash,274.84,4.1,Friday,January,2019,Not Satisfied
+Giza,Normal,Male,Health and beauty,34.31,8,13.724,288.204,2019-01-25,15:00:00,E-Wallet,274.48,5.7,Friday,January,2019,Not Satisfied
+Cairo,Member,Male,Health and beauty,54.86,5,13.715,288.015,2019-03-29,16:48:00,E-Wallet,274.3,9.8,Friday,March,2019,Satisfied
+Giza,Member,Male,Health and beauty,68.55,4,13.71,287.90999999999997,2019-02-15,20:21:00,Credit card,274.2,9.2,Friday,February,2019,Satisfied
+Cairo,Normal,Male,Electronic accessories,45.35,6,13.605,285.70500000000004,2019-01-31,13:44:00,E-Wallet,272.1,6.1,Thursday,January,2019,Not Satisfied
+Alex,Normal,Female,Food and beverages,54.27,5,13.5675,284.9175,2019-03-13,14:16:00,E-Wallet,271.35,4.6,Wednesday,March,2019,Not Satisfied
+Alex,Normal,Male,Food and beverages,33.88,8,13.552,284.59200000000004,2019-01-19,20:29:00,E-Wallet,271.04,9.6,Saturday,January,2019,Satisfied
+Giza,Normal,Female,Fashion accessories,90.22000000000001,3,13.533,284.19300000000004,2019-02-18,19:39:00,Cash,270.66,6.2,Monday,February,2019,Not Satisfied
+Giza,Normal,Male,Health and beauty,33.64,8,13.456,282.576,2019-02-15,17:10:00,Credit card,269.12,9.3,Friday,February,2019,Satisfied
+Alex,Member,Male,Sports and travel,67.26,4,13.452,282.492,2019-01-19,15:28:00,Credit card,269.04,8.0,Saturday,January,2019,Satisfied
+Cairo,Normal,Male,Sports and travel,44.629999999999995,6,13.389,281.169,2019-01-02,20:08:00,Credit card,267.78,5.1,Wednesday,January,2019,Not Satisfied
+Cairo,Member,Male,Sports and travel,26.669999999999998,10,13.335,280.03499999999997,2019-01-29,11:48:00,Cash,266.7,8.6,Tuesday,January,2019,Satisfied
+Alex,Normal,Male,Food and beverages,66.52,4,13.304,279.38399999999996,2019-03-02,18:14:00,E-Wallet,266.08,6.9,Saturday,March,2019,Not Satisfied
+Alex,Member,Female,Sports and travel,88.63,3,13.2945,279.18449999999996,2019-03-02,17:36:00,E-Wallet,265.89,6.0,Saturday,March,2019,Not Satisfied
+Giza,Normal,Male,Health and beauty,66.14,4,13.228,277.788,2019-03-19,12:46:00,Credit card,264.56,5.6,Tuesday,March,2019,Not Satisfied
+Alex,Member,Female,Fashion accessories,88.14999999999999,3,13.2225,277.6725,2019-01-18,10:11:00,E-Wallet,264.45,7.9,Friday,January,2019,Satisfied
+Cairo,Member,Female,Health and beauty,87.98,3,13.197,277.137,2019-03-05,10:40:00,E-Wallet,263.94,5.1,Tuesday,March,2019,Not Satisfied
+Giza,Member,Male,Electronic accessories,65.94,4,13.188,276.948,2019-02-07,13:05:00,Credit card,263.76,6.9,Thursday,February,2019,Not Satisfied
+Alex,Member,Male,Home and lifestyle,65.94,4,13.188,276.948,2019-03-24,10:29:00,Cash,263.76,6.0,Sunday,March,2019,Not Satisfied
+Giza,Member,Female,Fashion accessories,43.46,6,13.038,273.798,2019-02-07,17:55:00,E-Wallet,260.76,8.5,Thursday,February,2019,Satisfied
+Giza,Member,Male,Health and beauty,86.8,3,13.02,273.41999999999996,2019-01-28,16:47:00,E-Wallet,260.4,9.9,Monday,January,2019,Satisfied
+Giza,Member,Female,Health and beauty,37.15,7,13.0025,273.0525,2019-02-08,13:12:00,Credit card,260.05,7.7,Friday,February,2019,Satisfied
+Alex,Normal,Male,Health and beauty,32.46,8,12.984,272.664,2019-03-27,13:48:00,Credit card,259.68,4.9,Wednesday,March,2019,Not Satisfied
+Giza,Member,Female,Electronic accessories,51.92,5,12.98,272.58000000000004,2019-03-03,13:42:00,Cash,259.6,7.5,Sunday,March,2019,Satisfied
+Cairo,Member,Male,Health and beauty,25.9,10,12.95,271.95,2019-02-06,14:51:00,E-Wallet,259.0,8.7,Wednesday,February,2019,Satisfied
+Cairo,Member,Male,Home and lifestyle,36.910000000000004,7,12.9185,271.2885,2019-02-10,13:51:00,E-Wallet,258.37,6.7,Sunday,February,2019,Not Satisfied
+Alex,Normal,Male,Sports and travel,64.59,4,12.918,271.278,2019-01-06,13:35:00,E-Wallet,258.36,9.3,Sunday,January,2019,Satisfied
+Cairo,Normal,Female,Sports and travel,51.54,5,12.885,270.585,2019-01-26,17:45:00,Cash,257.7,4.2,Saturday,January,2019,Not Satisfied
+Giza,Member,Female,Food and beverages,36.769999999999996,7,12.8695,270.2595,2019-01-11,20:10:00,Cash,257.39,7.4,Friday,January,2019,Satisfied
+Giza,Member,Male,Home and lifestyle,85.72000000000001,3,12.858,270.01800000000003,2019-01-24,20:59:00,E-Wallet,257.16,5.1,Thursday,January,2019,Not Satisfied
+Alex,Normal,Female,Health and beauty,64.27,4,12.854,269.93399999999997,2019-03-26,13:54:00,Cash,257.08,7.7,Tuesday,March,2019,Satisfied
+Alex,Member,Male,Food and beverages,51.339999999999996,5,12.835,269.53499999999997,2019-03-28,15:31:00,Credit card,256.7,9.1,Thursday,March,2019,Satisfied
+Giza,Member,Female,Fashion accessories,84.87,3,12.7305,267.3405,2019-01-25,18:30:00,E-Wallet,254.61,7.4,Friday,January,2019,Satisfied
+Alex,Normal,Male,Health and beauty,50.79,5,12.6975,266.6475,2019-02-19,14:53:00,Credit card,253.95,5.3,Tuesday,February,2019,Not Satisfied
+Giza,Member,Female,Sports and travel,31.67,8,12.668,266.028,2019-01-02,16:19:00,Credit card,253.36,5.6,Wednesday,January,2019,Not Satisfied
+Giza,Normal,Male,Fashion accessories,42.08,6,12.624,265.104,2019-01-29,12:25:00,Cash,252.48,8.9,Tuesday,January,2019,Satisfied
+Giza,Normal,Female,Electronic accessories,84.05,3,12.6075,264.7575,2019-01-23,13:29:00,Cash,252.15,9.8,Wednesday,January,2019,Satisfied
+Cairo,Normal,Male,Home and lifestyle,50.28,5,12.57,263.97,2019-03-07,13:58:00,E-Wallet,251.4,9.7,Thursday,March,2019,Satisfied
+Cairo,Member,Female,Food and beverages,62.85,4,12.57,263.97,2019-02-25,13:22:00,E-Wallet,251.4,8.7,Monday,February,2019,Satisfied
+Alex,Member,Male,Home and lifestyle,62.65,4,12.53,263.13,2019-01-05,11:25:00,Cash,250.6,4.2,Saturday,January,2019,Not Satisfied
+Cairo,Normal,Male,Health and beauty,62.57,4,12.514,262.794,2019-02-25,18:37:00,Cash,250.28,9.5,Monday,February,2019,Satisfied
+Alex,Member,Male,Food and beverages,41.660000000000004,6,12.498,262.458,2019-01-02,15:24:00,E-Wallet,249.96,5.6,Wednesday,January,2019,Not Satisfied
+Cairo,Normal,Male,Home and lifestyle,62.19,4,12.438,261.198,2019-01-06,19:46:00,E-Wallet,248.76,4.3,Sunday,January,2019,Not Satisfied
+Giza,Normal,Male,Electronic accessories,24.740000000000002,10,12.37,259.77000000000004,2019-02-24,16:44:00,Cash,247.4,7.1,Sunday,February,2019,Satisfied
+Cairo,Member,Female,Health and beauty,41.06,6,12.318,258.678,2019-03-05,13:30:00,Credit card,246.36,8.3,Tuesday,March,2019,Satisfied
+Alex,Member,Female,Sports and travel,24.490000000000002,10,12.245,257.14500000000004,2019-02-22,15:15:00,Cash,244.9,8.1,Friday,February,2019,Satisfied
+Giza,Member,Female,Sports and travel,48.910000000000004,5,12.2275,256.77750000000003,2019-03-09,10:17:00,Cash,244.55,6.6,Saturday,March,2019,Not Satisfied
+Cairo,Member,Female,Electronic accessories,81.39999999999999,3,12.21,256.40999999999997,2019-02-09,19:43:00,Cash,244.2,4.8,Saturday,February,2019,Not Satisfied
+Alex,Member,Male,Home and lifestyle,81.01,3,12.1515,255.18150000000003,2019-01-13,12:55:00,Credit card,243.03,9.3,Sunday,January,2019,Satisfied
+Cairo,Member,Male,Home and lifestyle,27.0,9,12.15,255.15,2019-03-02,14:16:00,Cash,243.0,4.8,Saturday,March,2019,Not Satisfied
+Giza,Member,Male,Sports and travel,34.559999999999995,7,12.096,254.01599999999996,2019-03-11,16:07:00,Credit card,241.92,7.3,Monday,March,2019,Satisfied
+Giza,Member,Female,Electronic accessories,30.2,8,12.08,253.68,2019-03-03,19:30:00,E-Wallet,241.6,5.1,Sunday,March,2019,Not Satisfied
+Giza,Member,Female,Fashion accessories,80.48,3,12.072,253.512,2019-02-15,12:31:00,Cash,241.44,8.1,Friday,February,2019,Satisfied
+Cairo,Normal,Male,Food and beverages,60.3,4,12.06,253.26,2019-02-20,18:43:00,Cash,241.2,5.8,Wednesday,February,2019,Not Satisfied
+Cairo,Member,Female,Home and lifestyle,30.12,8,12.048,253.008,2019-03-03,13:01:00,Cash,240.96,7.7,Sunday,March,2019,Satisfied
+Cairo,Member,Male,Fashion accessories,60.18,4,12.036,252.756,2019-02-16,18:04:00,Credit card,240.72,9.4,Saturday,February,2019,Satisfied
+Alex,Normal,Male,Home and lifestyle,80.08,3,12.012,252.252,2019-02-11,15:29:00,Cash,240.24,5.4,Monday,February,2019,Not Satisfied
+Alex,Member,Male,Home and lifestyle,60.01,4,12.002,252.042,2019-01-25,15:54:00,Cash,240.04,4.5,Friday,January,2019,Not Satisfied
+Cairo,Member,Male,Food and beverages,79.91,3,11.9865,251.7165,2019-03-20,19:28:00,Credit card,239.73,5.0,Wednesday,March,2019,Not Satisfied
+Alex,Member,Female,Electronic accessories,79.59,3,11.9385,250.70850000000002,2019-01-08,14:30:00,Cash,238.77,6.6,Tuesday,January,2019,Not Satisfied
+Giza,Member,Male,Food and beverages,59.59,4,11.918,250.27800000000002,2019-01-19,12:46:00,Cash,238.36,9.8,Saturday,January,2019,Satisfied
+Giza,Normal,Female,Food and beverages,39.43,6,11.829,248.409,2019-03-25,20:18:00,Credit card,236.58,9.4,Monday,March,2019,Satisfied
+Alex,Normal,Male,Electronic accessories,26.23,9,11.8035,247.87349999999998,2019-01-25,20:24:00,E-Wallet,236.07,5.9,Friday,January,2019,Not Satisfied
+Cairo,Member,Male,Food and beverages,47.160000000000004,5,11.79,247.59,2019-02-03,14:35:00,Credit card,235.8,6.0,Sunday,February,2019,Not Satisfied
+Alex,Normal,Male,Electronic accessories,78.31,3,11.7465,246.6765,2019-03-05,16:38:00,E-Wallet,234.93,5.4,Tuesday,March,2019,Not Satisfied
+Alex,Normal,Male,Health and beauty,58.15,4,11.63,244.23,2019-01-23,17:44:00,Cash,232.6,8.4,Wednesday,January,2019,Satisfied
+Cairo,Normal,Female,Home and lifestyle,77.04,3,11.556,242.67600000000002,2019-02-11,10:39:00,Credit card,231.12,7.2,Monday,February,2019,Satisfied
+Cairo,Member,Female,Electronic accessories,57.49,4,11.498,241.458,2019-03-15,11:57:00,Cash,229.96,6.6,Friday,March,2019,Not Satisfied
+Cairo,Normal,Male,Electronic accessories,22.95,10,11.475,240.975,2019-02-06,19:20:00,E-Wallet,229.5,8.2,Wednesday,February,2019,Satisfied
+Giza,Normal,Female,Fashion accessories,76.06,3,11.409,239.589,2019-01-05,20:30:00,Credit card,228.18,9.8,Saturday,January,2019,Satisfied
+Giza,Member,Female,Health and beauty,28.5,8,11.4,239.4,2019-02-06,14:24:00,Cash,228.0,6.6,Wednesday,February,2019,Not Satisfied
+Alex,Normal,Female,Home and lifestyle,56.53,4,11.306,237.42600000000002,2019-03-04,19:48:00,E-Wallet,226.12,5.5,Monday,March,2019,Not Satisfied
+Alex,Member,Female,Sports and travel,75.2,3,11.28,236.88000000000002,2019-02-05,11:51:00,E-Wallet,225.6,4.8,Tuesday,February,2019,Not Satisfied
+Alex,Member,Female,Home and lifestyle,37.44,6,11.232,235.87199999999999,2019-02-06,13:55:00,Credit card,224.64,5.9,Wednesday,February,2019,Not Satisfied
+Giza,Normal,Female,Electronic accessories,56.13,4,11.226,235.746,2019-01-19,11:43:00,E-Wallet,224.52,8.6,Saturday,January,2019,Satisfied
+Alex,Normal,Male,Food and beverages,24.94,9,11.223,235.68300000000002,2019-01-11,16:49:00,Credit card,224.46,5.6,Friday,January,2019,Not Satisfied
+Alex,Member,Female,Health and beauty,24.89,9,11.2005,235.2105,2019-03-15,15:36:00,Cash,224.01,7.4,Friday,March,2019,Satisfied
+Alex,Member,Female,Food and beverages,44.589999999999996,5,11.1475,234.0975,2019-02-10,15:10:00,Cash,222.95,8.5,Sunday,February,2019,Satisfied
+Alex,Member,Female,Sports and travel,22.240000000000002,10,11.12,233.52000000000004,2019-02-09,11:00:00,Cash,222.4,4.2,Saturday,February,2019,Not Satisfied
+Cairo,Normal,Male,Sports and travel,37.02,6,11.106,233.226,2019-03-22,18:33:00,Cash,222.12,4.5,Friday,March,2019,Not Satisfied
+Alex,Member,Male,Health and beauty,55.5,4,11.1,233.1,2019-01-20,15:48:00,Credit card,222.0,6.6,Sunday,January,2019,Not Satisfied
+Alex,Normal,Female,Food and beverages,55.39,4,11.078,232.638,2019-03-25,15:19:00,E-Wallet,221.56,8.0,Monday,March,2019,Satisfied
+Giza,Member,Female,Fashion accessories,44.22,5,11.055,232.155,2019-03-05,17:07:00,Credit card,221.1,8.6,Tuesday,March,2019,Satisfied
+Cairo,Normal,Female,Health and beauty,73.41,3,11.0115,231.2415,2019-03-02,13:10:00,E-Wallet,220.23,4.0,Saturday,March,2019,Not Satisfied
+Giza,Member,Female,Home and lifestyle,21.82,10,10.91,229.10999999999999,2019-01-07,17:36:00,Cash,218.2,7.1,Monday,January,2019,Satisfied
+Alex,Member,Female,Home and lifestyle,72.42,3,10.863,228.123,2019-03-29,16:54:00,E-Wallet,217.26,8.2,Friday,March,2019,Satisfied
+Alex,Normal,Female,Sports and travel,43.06,5,10.765,226.065,2019-02-04,16:38:00,E-Wallet,215.3,7.7,Monday,February,2019,Satisfied
+Alex,Normal,Female,Food and beverages,71.67999999999999,3,10.752,225.79199999999997,2019-03-28,15:30:00,Credit card,215.04,9.2,Thursday,March,2019,Satisfied
+Alex,Normal,Female,Home and lifestyle,42.910000000000004,5,10.7275,225.2775,2019-01-05,17:29:00,E-Wallet,214.55,6.1,Saturday,January,2019,Not Satisfied
+Cairo,Member,Female,Electronic accessories,21.43,10,10.715,225.01500000000001,2019-01-28,11:51:00,Cash,214.3,6.2,Monday,January,2019,Not Satisfied
+Giza,Normal,Female,Sports and travel,23.75,9,10.6875,224.4375,2019-01-31,12:02:00,Cash,213.75,9.5,Thursday,January,2019,Satisfied
+Giza,Normal,Female,Electronic accessories,35.49,6,10.647,223.587,2019-02-02,12:40:00,Cash,212.94,4.1,Saturday,February,2019,Not Satisfied
+Cairo,Member,Female,Health and beauty,30.349999999999998,7,10.6225,223.0725,2019-03-19,18:19:00,Cash,212.45,8.0,Tuesday,March,2019,Satisfied
+Cairo,Normal,Male,Electronic accessories,52.89,4,10.578,222.138,2019-03-25,16:32:00,E-Wallet,211.56,6.7,Monday,March,2019,Not Satisfied
+Cairo,Normal,Female,Food and beverages,26.43,8,10.572,222.012,2019-02-24,14:26:00,E-Wallet,211.44,8.9,Sunday,February,2019,Satisfied
+Giza,Member,Female,Sports and travel,35.22,6,10.566,221.886,2019-03-14,13:49:00,E-Wallet,211.32,6.5,Thursday,March,2019,Not Satisfied
+Giza,Member,Female,Health and beauty,29.669999999999998,7,10.3845,218.0745,2019-03-11,18:58:00,Credit card,207.69,8.1,Monday,March,2019,Satisfied
+Giza,Member,Female,Electronic accessories,23.07,9,10.3815,218.01149999999998,2019-02-01,11:27:00,Cash,207.63,4.9,Friday,February,2019,Not Satisfied
+Alex,Normal,Female,Health and beauty,23.03,9,10.3635,217.6335,2019-01-03,12:02:00,E-Wallet,207.27,7.9,Thursday,January,2019,Satisfied
+Cairo,Member,Female,Sports and travel,29.610000000000003,7,10.3635,217.6335,2019-03-11,15:53:00,Cash,207.27,6.5,Monday,March,2019,Not Satisfied
+Cairo,Normal,Male,Home and lifestyle,68.97,3,10.3455,217.25549999999998,2019-02-22,11:26:00,E-Wallet,206.91,8.7,Friday,February,2019,Satisfied
+Alex,Normal,Male,Health and beauty,51.71,4,10.342,217.18200000000002,2019-03-09,13:53:00,Credit card,206.84,9.8,Saturday,March,2019,Satisfied
+Alex,Member,Female,Home and lifestyle,34.42,6,10.326,216.846,2019-02-18,15:39:00,Cash,206.52,9.8,Monday,February,2019,Satisfied
+Alex,Member,Female,Home and lifestyle,34.42,6,10.326,216.846,2019-03-30,12:45:00,E-Wallet,206.52,7.5,Saturday,March,2019,Satisfied
+Giza,Normal,Female,Food and beverages,22.93,9,10.3185,216.6885,2019-02-26,20:26:00,Cash,206.37,5.5,Tuesday,February,2019,Not Satisfied
+Alex,Normal,Female,Health and beauty,68.71,3,10.3065,216.4365,2019-03-04,10:05:00,Cash,206.13,8.7,Monday,March,2019,Satisfied
+Alex,Normal,Female,Electronic accessories,51.19,4,10.238,214.998,2019-03-18,17:15:00,Credit card,204.76,4.7,Monday,March,2019,Not Satisfied
+Alex,Normal,Female,Food and beverages,40.94,5,10.235,214.935,2019-01-06,13:58:00,E-Wallet,204.7,9.9,Sunday,January,2019,Satisfied
+Cairo,Member,Male,Health and beauty,51.13,4,10.226,214.746,2019-01-25,10:11:00,Credit card,204.52,4.0,Friday,January,2019,Not Satisfied
+Alex,Normal,Male,Home and lifestyle,33.99,6,10.197,214.137,2019-03-08,15:37:00,Credit card,203.94,7.7,Friday,March,2019,Satisfied
+Cairo,Member,Male,Fashion accessories,25.42,8,10.168,213.52800000000002,2019-03-19,19:42:00,Credit card,203.36,6.7,Tuesday,March,2019,Not Satisfied
+Alex,Normal,Male,Health and beauty,28.95,7,10.1325,212.7825,2019-03-03,20:31:00,Credit card,202.65,6.0,Sunday,March,2019,Not Satisfied
+Giza,Normal,Male,Food and beverages,40.519999999999996,5,10.13,212.72999999999996,2019-02-03,15:19:00,Cash,202.6,4.5,Sunday,February,2019,Not Satisfied
+Cairo,Member,Female,Health and beauty,25.32,8,10.128,212.688,2019-03-05,20:24:00,E-Wallet,202.56,8.7,Tuesday,March,2019,Satisfied
+Alex,Normal,Female,Food and beverages,67.10000000000001,3,10.065,211.365,2019-02-15,10:36:00,Cash,201.3,7.5,Friday,February,2019,Satisfied
+Alex,Normal,Female,Electronic accessories,50.23,4,10.046,210.96599999999998,2019-01-08,17:12:00,Cash,200.92,9.0,Tuesday,January,2019,Satisfied
+Cairo,Normal,Male,Fashion accessories,99.89,2,9.989,209.769,2019-02-26,11:48:00,E-Wallet,199.78,7.1,Tuesday,February,2019,Satisfied
+Giza,Normal,Male,Fashion accessories,99.82,2,9.982,209.62199999999999,2019-01-02,18:09:00,Credit card,199.64,6.7,Wednesday,January,2019,Not Satisfied
+Giza,Normal,Male,Food and beverages,99.79,2,9.979,209.55900000000003,2019-03-07,20:37:00,E-Wallet,199.58,8.0,Thursday,March,2019,Satisfied
+Giza,Member,Female,Food and beverages,49.79,4,9.958,209.118,2019-03-28,19:16:00,Credit card,199.16,6.4,Thursday,March,2019,Not Satisfied
+Cairo,Normal,Female,Fashion accessories,39.75,5,9.9375,208.6875,2019-02-22,10:43:00,E-Wallet,198.75,9.6,Friday,February,2019,Satisfied
+Giza,Member,Male,Food and beverages,99.37,2,9.937,208.67700000000002,2019-02-14,17:29:00,Cash,198.74,5.2,Thursday,February,2019,Not Satisfied
+Cairo,Normal,Male,Fashion accessories,99.25,2,9.925,208.425,2019-03-20,13:02:00,Cash,198.5,9.0,Wednesday,March,2019,Satisfied
+Cairo,Normal,Male,Home and lifestyle,22.02,9,9.909,208.089,2019-02-07,18:48:00,Cash,198.18,6.8,Thursday,February,2019,Not Satisfied
+Cairo,Member,Female,Sports and travel,49.49,4,9.898,207.858,2019-03-21,15:25:00,E-Wallet,197.96,6.6,Thursday,March,2019,Not Satisfied
+Cairo,Member,Female,Fashion accessories,19.77,10,9.885,207.58499999999998,2019-02-27,18:57:00,Credit card,197.7,5.0,Wednesday,February,2019,Not Satisfied
+Giza,Normal,Female,Sports and travel,98.8,2,9.88,207.48,2019-02-21,11:39:00,Cash,197.6,7.7,Thursday,February,2019,Satisfied
+Alex,Normal,Female,Fashion accessories,98.48,2,9.848,206.80800000000002,2019-02-19,10:12:00,E-Wallet,196.96,9.2,Tuesday,February,2019,Satisfied
+Giza,Member,Male,Home and lifestyle,39.39,5,9.8475,206.79749999999999,2019-01-22,20:46:00,Credit card,196.95,8.7,Tuesday,January,2019,Satisfied
+Alex,Member,Female,Fashion accessories,19.66,10,9.83,206.43,2019-03-15,18:20:00,Credit card,196.6,7.2,Friday,March,2019,Satisfied
+Alex,Normal,Male,Health and beauty,65.17999999999999,3,9.777,205.31699999999995,2019-02-25,20:35:00,Credit card,195.54,6.3,Monday,February,2019,Not Satisfied
+Giza,Normal,Male,Electronic accessories,27.849999999999998,7,9.7475,204.6975,2019-03-14,17:20:00,E-Wallet,194.95,6.0,Thursday,March,2019,Not Satisfied
+Alex,Normal,Female,Fashion accessories,48.63,4,9.726,204.246,2019-02-04,15:44:00,E-Wallet,194.52,7.6,Monday,February,2019,Satisfied
+Cairo,Normal,Male,Electronic accessories,21.58,9,9.711,203.93099999999998,2019-03-14,12:32:00,Cash,194.22,7.3,Thursday,March,2019,Satisfied
+Alex,Member,Female,Home and lifestyle,21.540000000000003,9,9.693,203.55300000000003,2019-01-07,11:44:00,Credit card,193.86,8.8,Monday,January,2019,Satisfied
+Alex,Member,Male,Electronic accessories,21.5,9,9.675,203.175,2019-03-06,12:46:00,Credit card,193.5,7.8,Wednesday,March,2019,Satisfied
+Alex,Member,Male,Electronic accessories,24.18,8,9.672,203.112,2019-01-28,20:54:00,E-Wallet,193.44,9.8,Monday,January,2019,Satisfied
+Alex,Member,Female,Health and beauty,96.58,2,9.658,202.81799999999998,2019-03-15,10:12:00,Credit card,193.16,5.1,Friday,March,2019,Not Satisfied
+Alex,Member,Male,Fashion accessories,38.54,5,9.635,202.33499999999998,2019-01-09,13:34:00,E-Wallet,192.7,5.6,Wednesday,January,2019,Not Satisfied
+Alex,Member,Female,Health and beauty,47.67,4,9.534,200.214,2019-03-12,14:21:00,Cash,190.68,9.1,Tuesday,March,2019,Satisfied
+Giza,Member,Female,Home and lifestyle,47.38,4,9.476,198.996,2019-01-23,10:25:00,Cash,189.52,7.1,Wednesday,January,2019,Satisfied
+Cairo,Normal,Male,Sports and travel,63.06,3,9.459,198.639,2019-01-19,15:58:00,E-Wallet,189.18,7.0,Saturday,January,2019,Satisfied
+Alex,Member,Male,Food and beverages,18.85,10,9.425,197.925,2019-02-27,18:24:00,E-Wallet,188.5,5.6,Wednesday,February,2019,Not Satisfied
+Cairo,Member,Male,Food and beverages,93.4,2,9.34,196.14000000000001,2019-03-30,16:34:00,Cash,186.8,5.5,Saturday,March,2019,Not Satisfied
+Cairo,Normal,Female,Sports and travel,93.31,2,9.331,195.951,2019-03-25,17:53:00,Cash,186.62,6.3,Monday,March,2019,Not Satisfied
+Giza,Member,Male,Fashion accessories,93.2,2,9.32,195.72,2019-02-28,18:37:00,Credit card,186.4,6.0,Thursday,February,2019,Not Satisfied
+Alex,Normal,Female,Sports and travel,93.18,2,9.318,195.67800000000003,2019-01-16,18:41:00,Credit card,186.36,8.5,Wednesday,January,2019,Satisfied
+Alex,Normal,Female,Sports and travel,93.14,2,9.314,195.594,2019-01-20,18:09:00,E-Wallet,186.28,4.1,Sunday,January,2019,Not Satisfied
+Giza,Member,Female,Fashion accessories,92.98,2,9.298,195.258,2019-02-13,15:06:00,Credit card,185.96,8.0,Wednesday,February,2019,Satisfied
+Cairo,Member,Male,Home and lifestyle,46.47,4,9.294,195.174,2019-02-08,10:53:00,Cash,185.88,7.0,Friday,February,2019,Satisfied
+Alex,Normal,Male,Sports and travel,37.14,5,9.285,194.98499999999999,2019-01-08,13:05:00,E-Wallet,185.7,5.0,Tuesday,January,2019,Not Satisfied
+Giza,Normal,Male,Home and lifestyle,46.22,4,9.244,194.124,2019-03-12,20:04:00,Credit card,184.88,6.2,Tuesday,March,2019,Not Satisfied
+Giza,Normal,Female,Fashion accessories,36.85,5,9.2125,193.4625,2019-01-26,18:53:00,Cash,184.25,9.2,Saturday,January,2019,Satisfied
+Cairo,Normal,Male,Home and lifestyle,45.97,4,9.194,193.07399999999998,2019-02-09,12:02:00,E-Wallet,183.88,5.1,Saturday,February,2019,Not Satisfied
+Cairo,Member,Female,Electronic accessories,26.259999999999998,7,9.191,193.011,2019-02-02,19:40:00,Cash,183.82,9.9,Saturday,February,2019,Satisfied
+Giza,Member,Female,Electronic accessories,30.61,6,9.183,192.843,2019-03-12,20:36:00,Cash,183.66,9.3,Tuesday,March,2019,Satisfied
+Alex,Normal,Male,Electronic accessories,26.02,7,9.107,191.24699999999999,2019-03-28,17:38:00,Cash,182.14,5.1,Thursday,March,2019,Not Satisfied
+Giza,Normal,Female,Home and lifestyle,45.38,4,9.076,190.596,2019-01-08,13:48:00,Credit card,181.52,8.7,Tuesday,January,2019,Satisfied
+Giza,Member,Male,Health and beauty,60.47,3,9.0705,190.4805,2019-01-14,10:55:00,Credit card,181.41,5.6,Monday,January,2019,Not Satisfied
+Cairo,Normal,Male,Health and beauty,18.11,10,9.055,190.155,2019-03-13,11:46:00,E-Wallet,181.1,5.9,Wednesday,March,2019,Not Satisfied
+Cairo,Member,Female,Food and beverages,20.01,9,9.0045,189.0945,2019-02-06,15:47:00,E-Wallet,180.09,4.1,Wednesday,February,2019,Not Satisfied
+Alex,Member,Female,Fashion accessories,20.01,9,9.0045,189.0945,2019-01-12,15:48:00,Credit card,180.09,5.7,Saturday,January,2019,Not Satisfied
+Giza,Member,Male,Home and lifestyle,35.81,5,8.9525,188.0025,2019-02-06,18:44:00,E-Wallet,179.05,7.9,Wednesday,February,2019,Satisfied
+Cairo,Normal,Female,Fashion accessories,25.56,7,8.946,187.86599999999999,2019-02-02,20:42:00,Cash,178.92,7.1,Saturday,February,2019,Satisfied
+Alex,Normal,Female,Health and beauty,35.68,5,8.92,187.32,2019-02-06,18:33:00,Credit card,178.4,6.6,Wednesday,February,2019,Not Satisfied
+Alex,Member,Male,Food and beverages,22.17,8,8.868,186.228,2019-03-03,17:01:00,Credit card,177.36,9.6,Sunday,March,2019,Satisfied
+Alex,Member,Female,Electronic accessories,25.22,7,8.827,185.367,2019-02-04,10:23:00,Cash,176.54,8.2,Monday,February,2019,Satisfied
+Giza,Member,Male,Health and beauty,44.07,4,8.814,185.094,2019-02-18,16:28:00,E-Wallet,176.28,8.4,Monday,February,2019,Satisfied
+Alex,Member,Female,Fashion accessories,87.67,2,8.767,184.107,2019-03-10,12:17:00,Credit card,175.34,7.7,Sunday,March,2019,Satisfied
+Giza,Member,Female,Sports and travel,29.22,6,8.766,184.08599999999998,2019-01-01,11:40:00,E-Wallet,175.32,5.0,Tuesday,January,2019,Not Satisfied
+Cairo,Normal,Male,Fashion accessories,17.490000000000002,10,8.745,183.64500000000004,2019-02-22,18:35:00,E-Wallet,174.9,6.6,Friday,February,2019,Not Satisfied
+Giza,Normal,Male,Health and beauty,21.8,8,8.72,183.12,2019-02-19,19:24:00,Cash,174.4,8.3,Tuesday,February,2019,Satisfied
+Giza,Member,Female,Sports and travel,87.16,2,8.716,183.036,2019-01-11,14:29:00,Credit card,174.32,9.7,Friday,January,2019,Satisfied
+Alex,Member,Male,Home and lifestyle,19.36,9,8.712,182.952,2019-01-18,18:43:00,E-Wallet,174.24,8.7,Friday,January,2019,Satisfied
+Alex,Member,Female,Electronic accessories,17.419999999999998,10,8.71,182.91,2019-02-22,12:30:00,E-Wallet,174.2,7.0,Friday,February,2019,Satisfied
+Alex,Member,Male,Food and beverages,24.82,7,8.687,182.42700000000002,2019-02-16,10:33:00,Credit card,173.74,7.1,Saturday,February,2019,Satisfied
+Cairo,Member,Male,Food and beverages,57.74,3,8.661,181.881,2019-02-20,13:06:00,E-Wallet,173.22,7.7,Wednesday,February,2019,Satisfied
+Cairo,Member,Male,Electronic accessories,19.24,9,8.658,181.81799999999998,2019-03-04,16:28:00,Cash,173.16,8.0,Monday,March,2019,Satisfied
+Alex,Member,Female,Electronic accessories,34.56,5,8.64,181.44,2019-02-17,11:15:00,E-Wallet,172.8,9.9,Sunday,February,2019,Satisfied
+Cairo,Member,Female,Electronic accessories,34.489999999999995,5,8.6225,181.0725,2019-03-11,19:44:00,Credit card,172.45,9.0,Monday,March,2019,Satisfied
+Giza,Normal,Male,Fashion accessories,86.13,2,8.613,180.873,2019-02-07,17:59:00,Cash,172.26,8.2,Thursday,February,2019,Satisfied
+Cairo,Normal,Female,Food and beverages,57.34,3,8.601,180.621,2019-03-10,18:59:00,Credit card,172.02,7.9,Sunday,March,2019,Satisfied
+Cairo,Normal,Female,Electronic accessories,43.0,4,8.6,180.6,2019-01-31,20:48:00,E-Wallet,172.0,7.6,Thursday,January,2019,Satisfied
+Cairo,Normal,Male,Fashion accessories,57.27,3,8.5905,180.4005,2019-02-09,20:31:00,E-Wallet,171.81,6.5,Saturday,February,2019,Not Satisfied
+Giza,Member,Female,Home and lifestyle,24.240000000000002,7,8.484,178.16400000000002,2019-01-27,17:38:00,E-Wallet,169.68,9.4,Sunday,January,2019,Satisfied
+Cairo,Normal,Male,Food and beverages,21.12,8,8.448,177.40800000000002,2019-01-01,19:31:00,Cash,168.96,6.3,Tuesday,January,2019,Not Satisfied
+Giza,Member,Male,Electronic accessories,84.25,2,8.425,176.925,2019-03-26,14:13:00,Credit card,168.5,5.3,Tuesday,March,2019,Not Satisfied
+Alex,Normal,Male,Health and beauty,56.0,3,8.4,176.4,2019-02-28,19:33:00,E-Wallet,168.0,4.8,Thursday,February,2019,Not Satisfied
+Cairo,Member,Male,Fashion accessories,83.77,2,8.377,175.917,2019-02-24,19:57:00,Cash,167.54,4.6,Sunday,February,2019,Not Satisfied
+Alex,Member,Male,Food and beverages,83.77,2,8.377,175.917,2019-01-15,10:54:00,Credit card,167.54,7.0,Tuesday,January,2019,Satisfied
+Giza,Normal,Male,Electronic accessories,20.85,8,8.34,175.14000000000001,2019-03-03,19:17:00,Cash,166.8,6.3,Sunday,March,2019,Not Satisfied
+Giza,Member,Male,Home and lifestyle,55.57,3,8.3355,175.0455,2019-01-08,11:42:00,Credit card,166.71,5.9,Tuesday,January,2019,Not Satisfied
+Giza,Member,Female,Fashion accessories,83.35,2,8.335,175.035,2019-02-02,14:05:00,Credit card,166.7,9.5,Saturday,February,2019,Satisfied
+Alex,Member,Female,Food and beverages,83.34,2,8.334,175.014,2019-03-19,13:37:00,Cash,166.68,7.6,Tuesday,March,2019,Satisfied
+Alex,Normal,Female,Sports and travel,33.260000000000005,5,8.315,174.615,2019-03-18,16:10:00,Credit card,166.3,4.2,Monday,March,2019,Not Satisfied
+Giza,Normal,Male,Health and beauty,41.5,4,8.3,174.3,2019-03-12,19:58:00,Credit card,166.0,8.2,Tuesday,March,2019,Satisfied
+Giza,Normal,Female,Food and beverages,41.24,4,8.248,173.208,2019-02-19,16:23:00,Cash,164.96,7.1,Tuesday,February,2019,Satisfied
+Giza,Member,Female,Fashion accessories,27.38,6,8.214,172.494,2019-01-05,20:54:00,Credit card,164.28,7.9,Saturday,January,2019,Satisfied
+Alex,Member,Female,Food and beverages,54.669999999999995,3,8.2005,172.2105,2019-01-21,18:00:00,Credit card,164.01,8.6,Monday,January,2019,Satisfied
+Alex,Normal,Female,Fashion accessories,81.91,2,8.191,172.011,2019-03-05,17:43:00,Cash,163.82,7.8,Tuesday,March,2019,Satisfied
+Alex,Normal,Male,Electronic accessories,32.71,5,8.1775,171.72750000000002,2019-03-19,11:30:00,Credit card,163.55,9.9,Tuesday,March,2019,Satisfied
+Cairo,Normal,Female,Fashion accessories,81.37,2,8.137,170.877,2019-01-26,19:28:00,Cash,162.74,6.5,Saturday,January,2019,Not Satisfied
+Alex,Member,Female,Sports and travel,32.25,5,8.0625,169.3125,2019-01-27,13:26:00,Cash,161.25,9.0,Sunday,January,2019,Satisfied
+Alex,Member,Female,Sports and travel,40.05,4,8.01,168.20999999999998,2019-01-25,11:40:00,Cash,160.2,9.7,Friday,January,2019,Satisfied
+Alex,Member,Male,Home and lifestyle,53.300000000000004,3,7.995,167.895,2019-01-25,14:19:00,E-Wallet,159.9,7.5,Friday,January,2019,Satisfied
+Cairo,Member,Male,Food and beverages,26.599999999999998,6,7.98,167.57999999999998,2019-02-26,15:10:00,E-Wallet,159.6,4.9,Tuesday,February,2019,Not Satisfied
+Alex,Member,Female,Food and beverages,79.54,2,7.954,167.03400000000002,2019-03-27,16:30:00,E-Wallet,159.08,6.2,Wednesday,March,2019,Not Satisfied
+Alex,Member,Female,Health and beauty,15.87,10,7.935,166.635,2019-03-13,16:40:00,Cash,158.7,5.8,Wednesday,March,2019,Not Satisfied
+Cairo,Normal,Male,Food and beverages,19.79,8,7.916,166.236,2019-01-18,12:04:00,E-Wallet,158.32,8.7,Friday,January,2019,Satisfied
+Alex,Member,Female,Food and beverages,52.75,3,7.9125,166.1625,2019-03-23,10:16:00,E-Wallet,158.25,9.3,Saturday,March,2019,Satisfied
+Alex,Member,Female,Sports and travel,15.809999999999999,10,7.905,166.005,2019-03-06,12:27:00,Credit card,158.1,8.6,Wednesday,March,2019,Satisfied
+Giza,Normal,Female,Home and lifestyle,15.8,10,7.9,165.9,2019-01-09,12:07:00,Cash,158.0,7.8,Wednesday,January,2019,Satisfied
+Cairo,Member,Female,Food and beverages,78.88,2,7.888,165.648,2019-01-26,16:04:00,Cash,157.76,9.1,Saturday,January,2019,Satisfied
+Giza,Normal,Female,Fashion accessories,22.509999999999998,7,7.8785,165.4485,2019-02-13,10:50:00,Credit card,157.57,4.8,Wednesday,February,2019,Not Satisfied
+Cairo,Normal,Male,Fashion accessories,52.419999999999995,3,7.863,165.123,2019-02-27,17:36:00,E-Wallet,157.26,7.5,Wednesday,February,2019,Satisfied
+Alex,Normal,Female,Food and beverages,52.34,3,7.851,164.871,2019-03-27,14:03:00,Cash,157.02,9.2,Wednesday,March,2019,Satisfied
+Cairo,Normal,Male,Fashion accessories,39.21,4,7.842,164.68200000000002,2019-01-16,20:03:00,Credit card,156.84,9.0,Wednesday,January,2019,Satisfied
+Alex,Normal,Male,Food and beverages,52.199999999999996,3,7.83,164.43,2019-02-15,13:30:00,Credit card,156.6,9.5,Friday,February,2019,Satisfied
+Alex,Normal,Male,Fashion accessories,51.94,3,7.791,163.611,2019-02-15,15:21:00,Cash,155.82,7.9,Friday,February,2019,Satisfied
+Alex,Member,Male,Home and lifestyle,25.91,6,7.773,163.233,2019-02-05,10:16:00,E-Wallet,155.46,8.7,Tuesday,February,2019,Satisfied
+Cairo,Member,Male,Home and lifestyle,38.81,4,7.762,163.002,2019-03-19,13:40:00,E-Wallet,155.24,4.9,Tuesday,March,2019,Not Satisfied
+Alex,Member,Male,Sports and travel,15.5,10,7.75,162.75,2019-03-23,10:55:00,E-Wallet,155.0,8.0,Saturday,March,2019,Satisfied
+Giza,Member,Female,Food and beverages,19.25,8,7.7,161.7,2019-01-23,18:37:00,E-Wallet,154.0,6.6,Wednesday,January,2019,Not Satisfied
+Alex,Member,Female,Sports and travel,21.98,7,7.693,161.55300000000003,2019-01-10,16:42:00,E-Wallet,153.86,5.1,Thursday,January,2019,Not Satisfied
+Cairo,Member,Female,Fashion accessories,38.3,4,7.66,160.85999999999999,2019-03-13,19:22:00,Cash,153.2,5.7,Wednesday,March,2019,Not Satisfied
+Giza,Normal,Male,Sports and travel,76.4,2,7.64,160.44,2019-01-30,19:42:00,E-Wallet,152.8,6.5,Wednesday,January,2019,Not Satisfied
+Alex,Normal,Male,Health and beauty,25.430000000000003,6,7.629,160.209,2019-02-12,19:01:00,E-Wallet,152.58,7.0,Tuesday,February,2019,Satisfied
+Alex,Normal,Male,Fashion accessories,37.15,4,7.43,156.03,2019-03-23,18:59:00,E-Wallet,148.6,8.3,Saturday,March,2019,Satisfied
+Giza,Member,Male,Electronic accessories,37.06,4,7.412,155.65200000000002,2019-01-31,16:24:00,E-Wallet,148.24,9.7,Thursday,January,2019,Satisfied
+Cairo,Member,Female,Fashion accessories,29.560000000000002,5,7.39,155.19,2019-02-13,16:59:00,Cash,147.8,6.9,Wednesday,February,2019,Not Satisfied
+Cairo,Normal,Female,Fashion accessories,73.52,2,7.352,154.392,2019-01-15,13:41:00,E-Wallet,147.04,4.6,Tuesday,January,2019,Not Satisfied
+Giza,Normal,Female,Food and beverages,16.31,9,7.3395,154.12949999999998,2019-03-26,10:31:00,E-Wallet,146.79,8.4,Tuesday,March,2019,Satisfied
+Giza,Member,Male,Sports and travel,72.88,2,7.288,153.048,2019-03-13,12:51:00,Cash,145.76,6.1,Wednesday,March,2019,Not Satisfied
+Cairo,Member,Female,Food and beverages,48.52,3,7.278,152.838,2019-03-05,18:17:00,E-Wallet,145.56,4.0,Tuesday,March,2019,Not Satisfied
+Cairo,Member,Female,Sports and travel,48.5,3,7.275,152.775,2019-01-08,12:50:00,Cash,145.5,6.7,Tuesday,January,2019,Not Satisfied
+Alex,Member,Male,Electronic accessories,36.36,4,7.272,152.712,2019-03-25,13:07:00,Cash,145.44,7.6,Monday,March,2019,Satisfied
+Cairo,Normal,Male,Food and beverages,72.39,2,7.239,152.019,2019-01-13,19:55:00,Credit card,144.78,8.1,Sunday,January,2019,Satisfied
+Cairo,Normal,Female,Food and beverages,28.860000000000003,5,7.215,151.51500000000001,2019-01-22,18:08:00,Credit card,144.3,8.0,Tuesday,January,2019,Satisfied
+Cairo,Member,Male,Electronic accessories,48.09,3,7.2135,151.48350000000002,2019-02-10,18:23:00,Credit card,144.27,7.8,Sunday,February,2019,Satisfied
+Cairo,Member,Female,Fashion accessories,72.04,2,7.204,151.28400000000002,2019-02-04,19:38:00,Cash,144.08,9.5,Monday,February,2019,Satisfied
+Giza,Normal,Female,Sports and travel,14.36,10,7.18,150.78,2019-01-27,14:28:00,Cash,143.6,5.4,Sunday,January,2019,Not Satisfied
+Alex,Member,Female,Sports and travel,71.63,2,7.163,150.423,2019-02-12,14:33:00,E-Wallet,143.26,8.8,Tuesday,February,2019,Satisfied
+Giza,Normal,Female,Electronic accessories,47.65,3,7.1475,150.0975,2019-03-28,12:58:00,Credit card,142.95,9.5,Thursday,March,2019,Satisfied
+Alex,Member,Female,Electronic accessories,28.45,5,7.1125,149.3625,2019-03-21,10:17:00,Credit card,142.25,9.1,Thursday,March,2019,Satisfied
+Cairo,Normal,Male,Electronic accessories,28.380000000000003,5,7.095,148.995,2019-03-06,20:57:00,Cash,141.9,9.4,Wednesday,March,2019,Satisfied
+Giza,Normal,Male,Home and lifestyle,35.47,4,7.094,148.974,2019-03-14,17:22:00,Credit card,141.88,6.9,Thursday,March,2019,Not Satisfied
+Alex,Normal,Female,Home and lifestyle,28.32,5,7.08,148.68,2019-03-11,13:28:00,E-Wallet,141.6,6.2,Monday,March,2019,Not Satisfied
+Alex,Normal,Female,Electronic accessories,23.459999999999997,6,7.038,147.798,2019-01-13,19:14:00,E-Wallet,140.76,6.4,Sunday,January,2019,Not Satisfied
+Alex,Member,Female,Home and lifestyle,70.32,2,7.032,147.672,2019-03-24,14:22:00,E-Wallet,140.64,9.6,Sunday,March,2019,Satisfied
+Alex,Member,Female,Health and beauty,15.549999999999999,9,6.9975,146.9475,2019-03-07,13:12:00,Cash,139.95,5.0,Thursday,March,2019,Not Satisfied
+Alex,Member,Female,Sports and travel,27.93,5,6.9825,146.6325,2019-01-29,15:48:00,Cash,139.65,5.9,Tuesday,January,2019,Not Satisfied
+Cairo,Normal,Female,Sports and travel,34.84,4,6.968,146.328,2019-02-10,18:36:00,Cash,139.36,7.4,Sunday,February,2019,Satisfied
+Cairo,Normal,Male,Sports and travel,46.419999999999995,3,6.963,146.22299999999998,2019-01-04,13:24:00,Credit card,139.26,4.4,Friday,January,2019,Not Satisfied
+Cairo,Normal,Male,Health and beauty,69.51,2,6.951,145.971,2019-03-01,12:15:00,E-Wallet,139.02,8.1,Friday,March,2019,Satisfied
+Giza,Normal,Male,Home and lifestyle,69.4,2,6.94,145.74,2019-01-27,19:48:00,E-Wallet,138.8,9.0,Sunday,January,2019,Satisfied
+Giza,Member,Male,Fashion accessories,69.33,2,6.933,145.593,2019-02-05,19:05:00,E-Wallet,138.66,9.7,Tuesday,February,2019,Satisfied
+Alex,Member,Female,Health and beauty,27.73,5,6.9325,145.5825,2019-03-26,20:21:00,Credit card,138.65,4.2,Tuesday,March,2019,Not Satisfied
+Cairo,Member,Female,Sports and travel,23.08,6,6.924,145.404,2019-01-24,19:20:00,E-Wallet,138.48,4.9,Thursday,January,2019,Not Satisfied
+Cairo,Normal,Male,Fashion accessories,69.08,2,6.908,145.06799999999998,2019-01-31,19:48:00,Credit card,138.16,6.9,Thursday,January,2019,Not Satisfied
+Cairo,Normal,Male,Sports and travel,23.01,6,6.903,144.963,2019-01-12,16:45:00,E-Wallet,138.06,7.9,Saturday,January,2019,Satisfied
+Giza,Normal,Male,Fashion accessories,45.74,3,6.861,144.081,2019-03-10,17:38:00,Credit card,137.22,6.5,Sunday,March,2019,Not Satisfied
+Cairo,Normal,Female,Electronic accessories,45.71,3,6.8565,143.9865,2019-03-26,10:34:00,Credit card,137.13,7.7,Tuesday,March,2019,Satisfied
+Alex,Normal,Female,Food and beverages,27.28,5,6.82,143.22,2019-02-03,10:31:00,Credit card,136.4,8.6,Sunday,February,2019,Satisfied
+Alex,Normal,Male,Fashion accessories,45.379999999999995,3,6.807,142.94699999999997,2019-02-17,13:34:00,Credit card,136.14,7.2,Sunday,February,2019,Satisfied
+Alex,Member,Male,Electronic accessories,19.32,7,6.762,142.002,2019-03-25,18:51:00,Cash,135.24,6.9,Monday,March,2019,Not Satisfied
+Cairo,Normal,Female,Health and beauty,13.5,10,6.75,141.75,2019-02-27,11:06:00,Credit card,135.0,4.8,Wednesday,February,2019,Not Satisfied
+Alex,Normal,Male,Sports and travel,44.65,3,6.6975,140.64749999999998,2019-02-14,15:04:00,Cash,133.95,6.2,Thursday,February,2019,Not Satisfied
+Alex,Normal,Female,Sports and travel,19.099999999999998,7,6.685,140.385,2019-01-15,10:43:00,Cash,133.7,9.7,Tuesday,January,2019,Satisfied
+Giza,Normal,Male,Electronic accessories,22.209999999999997,6,6.663,139.923,2019-03-07,10:23:00,Credit card,133.26,8.6,Thursday,March,2019,Satisfied
+Cairo,Normal,Male,Home and lifestyle,44.120000000000005,3,6.618,138.978,2019-03-18,13:45:00,Credit card,132.36,7.9,Monday,March,2019,Satisfied
+Cairo,Normal,Male,Electronic accessories,22.01,6,6.603,138.663,2019-01-02,18:50:00,Cash,132.06,7.6,Wednesday,January,2019,Satisfied
+Alex,Normal,Female,Electronic accessories,26.310000000000002,5,6.5775,138.1275,2019-01-18,20:59:00,Credit card,131.55,8.8,Friday,January,2019,Satisfied
+Giza,Member,Male,Food and beverages,65.65,2,6.565,137.865,2019-01-17,16:46:00,Cash,131.3,6.0,Thursday,January,2019,Not Satisfied
+Cairo,Member,Male,Fashion accessories,32.62,4,6.524,137.004,2019-01-29,14:12:00,Cash,130.48,9.0,Tuesday,January,2019,Satisfied
+Cairo,Member,Female,Sports and travel,64.83,2,6.483,136.143,2019-01-08,11:59:00,Credit card,129.66,8.0,Tuesday,January,2019,Satisfied
+Alex,Normal,Male,Home and lifestyle,21.52,6,6.456,135.576,2019-01-17,12:48:00,Credit card,129.12,9.4,Thursday,January,2019,Satisfied
+Alex,Member,Male,Electronic accessories,32.25,4,6.45,135.45,2019-02-13,12:38:00,E-Wallet,129.0,6.5,Wednesday,February,2019,Not Satisfied
+Cairo,Normal,Female,Sports and travel,42.97,3,6.4455,135.3555,2019-02-03,11:46:00,Cash,128.91,9.3,Sunday,February,2019,Satisfied
+Cairo,Normal,Male,Food and beverages,18.220000000000002,7,6.377,133.91700000000003,2019-03-10,14:04:00,Credit card,127.54,6.6,Sunday,March,2019,Not Satisfied
+Giza,Normal,Male,Food and beverages,31.77,4,6.354,133.434,2019-01-14,14:43:00,E-Wallet,127.08,6.2,Monday,January,2019,Not Satisfied
+Cairo,Normal,Male,Home and lifestyle,31.75,4,6.35,133.35,2019-02-08,15:26:00,Cash,127.0,8.6,Friday,February,2019,Satisfied
+Giza,Normal,Female,Electronic accessories,63.22,2,6.322,132.762,2019-01-01,15:51:00,Cash,126.44,8.5,Tuesday,January,2019,Satisfied
+Giza,Member,Male,Sports and travel,25.25,5,6.3125,132.5625,2019-03-20,17:52:00,Cash,126.25,6.1,Wednesday,March,2019,Not Satisfied
+Giza,Normal,Male,Health and beauty,62.87,2,6.287,132.027,2019-01-01,11:43:00,Cash,125.74,5.0,Tuesday,January,2019,Not Satisfied
+Giza,Member,Female,Health and beauty,62.82,2,6.282,131.922,2019-01-17,12:36:00,E-Wallet,125.64,4.9,Thursday,January,2019,Not Satisfied
+Giza,Normal,Male,Fashion accessories,15.62,8,6.248,131.208,2019-01-20,20:37:00,E-Wallet,124.96,9.1,Sunday,January,2019,Satisfied
+Giza,Normal,Female,Health and beauty,13.850000000000001,9,6.2325,130.8825,2019-02-04,12:50:00,E-Wallet,124.65,6.0,Monday,February,2019,Not Satisfied
+Cairo,Normal,Female,Sports and travel,24.77,5,6.1925,130.0425,2019-03-24,18:27:00,Cash,123.85,8.5,Sunday,March,2019,Satisfied
+Alex,Member,Male,Fashion accessories,41.28,3,6.192,130.032,2019-03-26,18:37:00,Credit card,123.84,8.5,Tuesday,March,2019,Satisfied
+Cairo,Normal,Male,Home and lifestyle,13.59,9,6.1155,128.4255,2019-03-15,10:26:00,Cash,122.31,5.8,Friday,March,2019,Not Satisfied
+Cairo,Normal,Female,Fashion accessories,60.96,2,6.096,128.016,2019-01-25,19:39:00,Credit card,121.92,4.9,Friday,January,2019,Not Satisfied
+Alex,Normal,Male,Sports and travel,60.87,2,6.087,127.827,2019-03-09,12:37:00,E-Wallet,121.74,8.7,Saturday,March,2019,Satisfied
+Giza,Member,Female,Home and lifestyle,12.120000000000001,10,6.06,127.26000000000002,2019-03-05,13:44:00,Credit card,121.2,8.4,Tuesday,March,2019,Satisfied
+Giza,Member,Male,Sports and travel,17.14,7,5.999,125.979,2019-01-16,12:07:00,Credit card,119.98,7.9,Wednesday,January,2019,Satisfied
+Cairo,Member,Male,Health and beauty,39.910000000000004,3,5.9865,125.71650000000002,2019-02-21,12:40:00,E-Wallet,119.73,9.3,Thursday,February,2019,Satisfied
+Cairo,Member,Male,Fashion accessories,59.86,2,5.986,125.706,2019-01-13,14:55:00,E-Wallet,119.72,6.7,Sunday,January,2019,Not Satisfied
+Cairo,Normal,Female,Electronic accessories,14.96,8,5.984,125.664,2019-02-23,12:29:00,Cash,119.68,8.6,Saturday,February,2019,Satisfied
+Alex,Normal,Male,Health and beauty,59.77,2,5.977,125.51700000000001,2019-03-11,12:01:00,Credit card,119.54,5.8,Monday,March,2019,Not Satisfied
+Giza,Normal,Female,Fashion accessories,23.82,5,5.955,125.05499999999999,2019-01-28,19:24:00,E-Wallet,119.1,5.4,Monday,January,2019,Not Satisfied
+Giza,Normal,Male,Home and lifestyle,16.669999999999998,7,5.8345,122.52449999999999,2019-02-07,11:36:00,E-Wallet,116.69,7.4,Thursday,February,2019,Satisfied
+Giza,Normal,Female,Health and beauty,58.32,2,5.832,122.472,2019-02-14,12:42:00,E-Wallet,116.64,6.0,Thursday,February,2019,Not Satisfied
+Alex,Normal,Male,Electronic accessories,58.03,2,5.803,121.863,2019-03-10,20:46:00,E-Wallet,116.06,8.8,Sunday,March,2019,Satisfied
+Giza,Member,Female,Food and beverages,38.6,3,5.79,121.59000000000002,2019-03-28,13:57:00,E-Wallet,115.8,7.5,Thursday,March,2019,Satisfied
+Cairo,Member,Male,Food and beverages,57.89,2,5.789,121.569,2019-01-17,10:37:00,E-Wallet,115.78,8.9,Thursday,January,2019,Satisfied
+Giza,Normal,Male,Electronic accessories,28.84,4,5.768,121.128,2019-03-29,14:44:00,Cash,115.36,6.4,Friday,March,2019,Not Satisfied
+Giza,Member,Female,Sports and travel,19.150000000000002,6,5.745,120.64500000000001,2019-01-29,10:01:00,Credit card,114.9,6.8,Tuesday,January,2019,Not Satisfied
+Cairo,Normal,Female,Health and beauty,57.22,2,5.722,120.16199999999999,2019-01-12,17:13:00,E-Wallet,114.44,8.3,Saturday,January,2019,Satisfied
+Cairo,Member,Female,Electronic accessories,18.93,6,5.679,119.259,2019-02-10,12:45:00,Credit card,113.58,8.1,Sunday,February,2019,Satisfied
+Alex,Member,Female,Home and lifestyle,28.31,4,5.662,118.902,2019-03-07,18:35:00,Cash,113.24,8.2,Thursday,March,2019,Satisfied
+Giza,Member,Male,Electronic accessories,18.77,6,5.631,118.251,2019-01-28,16:43:00,Credit card,112.62,5.5,Monday,January,2019,Not Satisfied
+Cairo,Normal,Male,Home and lifestyle,37.48,3,5.622,118.062,2019-01-20,13:45:00,Credit card,112.44,7.7,Sunday,January,2019,Satisfied
+Giza,Member,Female,Home and lifestyle,56.11,2,5.611,117.831,2019-02-02,10:11:00,Cash,112.22,6.3,Saturday,February,2019,Not Satisfied
+Cairo,Member,Male,Electronic accessories,55.67,2,5.567,116.90700000000001,2019-03-27,15:08:00,E-Wallet,111.34,6.0,Wednesday,March,2019,Not Satisfied
+Cairo,Member,Female,Home and lifestyle,12.29,9,5.5305,116.14049999999999,2019-03-26,19:28:00,Credit card,110.61,8.0,Tuesday,March,2019,Satisfied
+Cairo,Member,Female,Fashion accessories,21.94,5,5.485,115.185,2019-03-05,12:29:00,E-Wallet,109.7,5.3,Tuesday,March,2019,Not Satisfied
+Alex,Member,Female,Food and beverages,10.959999999999999,10,5.48,115.08,2019-02-02,20:48:00,E-Wallet,109.6,6.0,Saturday,February,2019,Not Satisfied
+Alex,Member,Female,Sports and travel,27.04,4,5.408,113.568,2019-01-01,20:26:00,E-Wallet,108.16,6.9,Tuesday,January,2019,Not Satisfied
+Cairo,Member,Female,Home and lifestyle,53.44,2,5.344,112.22399999999999,2019-01-20,20:38:00,E-Wallet,106.88,4.1,Sunday,January,2019,Not Satisfied
+Cairo,Member,Female,Fashion accessories,17.48,6,5.244,110.124,2019-01-18,15:04:00,Credit card,104.88,6.1,Friday,January,2019,Not Satisfied
+Alex,Member,Male,Health and beauty,20.97,5,5.2425,110.0925,2019-01-04,13:21:00,Cash,104.85,7.8,Friday,January,2019,Satisfied
+Cairo,Normal,Male,Home and lifestyle,25.55,4,5.11,107.31,2019-01-26,20:23:00,E-Wallet,102.2,5.7,Saturday,January,2019,Not Satisfied
+Giza,Member,Female,Health and beauty,20.380000000000003,5,5.095,106.995,2019-01-22,18:56:00,Cash,101.9,6.0,Tuesday,January,2019,Not Satisfied
+Cairo,Normal,Female,Home and lifestyle,11.28,9,5.076,106.59599999999999,2019-03-17,11:55:00,Credit card,101.52,4.3,Sunday,March,2019,Not Satisfied
+Giza,Member,Male,Health and beauty,33.81,3,5.0715,106.50150000000001,2019-01-26,15:11:00,E-Wallet,101.43,7.3,Saturday,January,2019,Satisfied
+Cairo,Member,Male,Fashion accessories,49.92,2,4.992,104.83200000000001,2019-03-06,11:55:00,Credit card,99.84,7.0,Wednesday,March,2019,Satisfied
+Giza,Normal,Female,Electronic accessories,99.69,1,4.9845,104.6745,2019-02-27,10:23:00,Credit card,99.69,8.0,Wednesday,February,2019,Satisfied
+Giza,Normal,Female,Food and beverages,16.48,6,4.944,103.824,2019-02-07,18:23:00,E-Wallet,98.88,9.9,Thursday,February,2019,Satisfied
+Giza,Member,Female,Electronic accessories,98.84,1,4.942,103.78200000000001,2019-02-15,11:21:00,Cash,98.84,8.4,Friday,February,2019,Satisfied
+Alex,Normal,Male,Food and beverages,32.9,3,4.935,103.63499999999999,2019-02-17,17:27:00,Credit card,98.7,9.1,Sunday,February,2019,Satisfied
+Cairo,Normal,Female,Home and lifestyle,16.37,6,4.911,103.131,2019-02-08,10:58:00,Cash,98.22,7.0,Friday,February,2019,Satisfied
+Cairo,Member,Female,Home and lifestyle,49.1,2,4.91,103.11,2019-01-08,12:58:00,Credit card,98.2,6.4,Tuesday,January,2019,Not Satisfied
+Cairo,Member,Female,Sports and travel,98.13,1,4.9065,103.03649999999999,2019-01-21,17:36:00,Cash,98.13,8.9,Monday,January,2019,Satisfied
+Alex,Normal,Male,Home and lifestyle,97.94,1,4.897,102.837,2019-03-07,11:44:00,E-Wallet,97.94,6.9,Thursday,March,2019,Not Satisfied
+Giza,Normal,Female,Fashion accessories,12.19,8,4.876,102.396,2019-03-13,12:47:00,E-Wallet,97.52,6.8,Wednesday,March,2019,Not Satisfied
+Alex,Member,Female,Electronic accessories,97.16,1,4.858,102.018,2019-03-08,20:38:00,E-Wallet,97.16,7.2,Friday,March,2019,Satisfied
+Cairo,Normal,Male,Food and beverages,32.32,3,4.848,101.808,2019-03-27,19:11:00,Credit card,96.96,4.3,Wednesday,March,2019,Not Satisfied
+Cairo,Member,Female,Electronic accessories,12.1,8,4.84,101.64,2019-01-19,10:17:00,E-Wallet,96.8,8.6,Saturday,January,2019,Satisfied
+Cairo,Normal,Male,Health and beauty,96.11,1,4.8055,100.9155,2019-01-25,16:28:00,E-Wallet,96.11,7.8,Friday,January,2019,Satisfied
+Giza,Member,Female,Home and lifestyle,15.950000000000001,6,4.785,100.485,2019-02-09,17:15:00,Credit card,95.7,5.1,Saturday,February,2019,Not Satisfied
+Alex,Member,Female,Home and lifestyle,47.68,2,4.768,100.128,2019-02-24,10:10:00,Credit card,95.36,4.1,Sunday,February,2019,Not Satisfied
+Alex,Normal,Male,Electronic accessories,95.15,1,4.7575,99.9075,2019-03-22,14:00:00,Cash,95.15,6.0,Friday,March,2019,Not Satisfied
+Alex,Normal,Male,Home and lifestyle,23.75,4,4.75,99.75,2019-03-16,11:22:00,Cash,95.0,5.2,Saturday,March,2019,Not Satisfied
+Cairo,Member,Female,Sports and travel,11.85,8,4.74,99.53999999999999,2019-01-09,16:34:00,Cash,94.8,4.1,Wednesday,January,2019,Not Satisfied
+Cairo,Normal,Female,Electronic accessories,23.65,4,4.73,99.33,2019-01-30,13:32:00,Credit card,94.6,4.0,Wednesday,January,2019,Not Satisfied
+Cairo,Normal,Male,Sports and travel,93.38,1,4.669,98.04899999999999,2019-01-03,13:07:00,Cash,93.38,9.6,Thursday,January,2019,Satisfied
+Cairo,Member,Male,Food and beverages,23.34,4,4.668,98.028,2019-02-04,18:53:00,E-Wallet,93.36,7.4,Monday,February,2019,Satisfied
+Alex,Normal,Female,Electronic accessories,46.61,2,4.661,97.881,2019-02-26,12:28:00,Credit card,93.22,6.6,Tuesday,February,2019,Not Satisfied
+Alex,Member,Male,Home and lifestyle,23.29,4,4.658,97.818,2019-03-19,11:52:00,Credit card,93.16,5.9,Tuesday,March,2019,Not Satisfied
+Cairo,Normal,Male,Health and beauty,92.78,1,4.639,97.419,2019-03-15,10:50:00,Credit card,92.78,9.8,Friday,March,2019,Satisfied
+Alex,Normal,Male,Home and lifestyle,30.680000000000003,3,4.602,96.64200000000001,2019-01-22,11:00:00,E-Wallet,92.04,9.1,Tuesday,January,2019,Satisfied
+Giza,Member,Male,Fashion accessories,91.98,1,4.599,96.57900000000001,2019-03-18,15:29:00,Cash,91.98,9.8,Monday,March,2019,Satisfied
+Alex,Member,Female,Food and beverages,91.61,1,4.5805,96.1905,2019-03-20,19:44:00,Cash,91.61,9.8,Wednesday,March,2019,Satisfied
+Alex,Normal,Male,Health and beauty,15.26,6,4.578,96.138,2019-02-15,18:03:00,E-Wallet,91.56,9.8,Friday,February,2019,Satisfied
+Cairo,Member,Male,Fashion accessories,91.35,1,4.5675,95.91749999999999,2019-02-16,15:42:00,Cash,91.35,6.8,Saturday,February,2019,Not Satisfied
+Alex,Member,Male,Health and beauty,91.3,1,4.565,95.865,2019-02-14,14:42:00,E-Wallet,91.3,9.2,Thursday,February,2019,Satisfied
+Cairo,Normal,Female,Fashion accessories,30.37,3,4.5555,95.6655,2019-03-28,13:41:00,E-Wallet,91.11,5.1,Thursday,March,2019,Not Satisfied
+Giza,Member,Female,Health and beauty,89.75,1,4.4875,94.2375,2019-02-06,20:05:00,Credit card,89.75,6.6,Wednesday,February,2019,Not Satisfied
+Alex,Member,Male,Fashion accessories,17.94,5,4.485,94.185,2019-01-23,14:04:00,E-Wallet,89.7,6.8,Wednesday,January,2019,Not Satisfied
+Alex,Normal,Male,Fashion accessories,89.69,1,4.4845,94.1745,2019-01-11,11:20:00,E-Wallet,89.69,4.9,Friday,January,2019,Not Satisfied
+Alex,Member,Female,Fashion accessories,22.32,4,4.464,93.744,2019-03-01,16:23:00,Credit card,89.28,4.4,Friday,March,2019,Not Satisfied
+Cairo,Member,Female,Fashion accessories,22.32,4,4.464,93.744,2019-03-14,11:16:00,E-Wallet,89.28,4.1,Thursday,March,2019,Not Satisfied
+Cairo,Member,Male,Home and lifestyle,17.77,5,4.4425,93.29249999999999,2019-02-15,12:42:00,Credit card,88.85,5.4,Friday,February,2019,Not Satisfied
+Alex,Member,Female,Home and lifestyle,44.34,2,4.434,93.114,2019-03-27,11:26:00,Cash,88.68,5.8,Wednesday,March,2019,Not Satisfied
+Giza,Member,Female,Home and lifestyle,88.61,1,4.4305,93.0405,2019-01-19,10:21:00,Cash,88.61,7.7,Saturday,January,2019,Satisfied
+Cairo,Normal,Male,Sports and travel,88.45,1,4.4225,92.8725,2019-02-25,16:36:00,Credit card,88.45,9.5,Monday,February,2019,Satisfied
+Cairo,Member,Male,Sports and travel,88.31,1,4.4155,92.7255,2019-02-15,17:38:00,Credit card,88.31,5.2,Friday,February,2019,Not Satisfied
+Cairo,Member,Female,Food and beverages,17.630000000000003,5,4.4075,92.5575,2019-03-08,15:27:00,Cash,88.15,8.5,Friday,March,2019,Satisfied
+Alex,Member,Female,Sports and travel,22.01,4,4.402,92.44200000000001,2019-01-29,18:15:00,Credit card,88.04,6.6,Tuesday,January,2019,Not Satisfied
+Alex,Member,Male,Food and beverages,87.9,1,4.395,92.295,2019-02-05,19:42:00,E-Wallet,87.9,6.7,Tuesday,February,2019,Not Satisfied
+Cairo,Member,Female,Food and beverages,29.150000000000002,3,4.3725,91.8225,2019-03-27,20:29:00,Credit card,87.45,7.3,Wednesday,March,2019,Satisfied
+Giza,Member,Male,Health and beauty,43.7,2,4.37,91.77000000000001,2019-03-26,18:03:00,Cash,87.4,4.9,Tuesday,March,2019,Not Satisfied
+Giza,Member,Male,Food and beverages,17.44,5,4.36,91.56,2019-01-15,19:25:00,Cash,87.2,8.1,Tuesday,January,2019,Satisfied
+Giza,Normal,Male,Health and beauty,17.41,5,4.3525,91.4025,2019-01-28,15:16:00,Credit card,87.05,4.9,Monday,January,2019,Not Satisfied
+Cairo,Member,Female,Home and lifestyle,86.72,1,4.336,91.056,2019-01-17,18:45:00,E-Wallet,86.72,7.9,Thursday,January,2019,Satisfied
+Giza,Normal,Male,Food and beverages,43.27,2,4.327,90.867,2019-03-08,16:53:00,E-Wallet,86.54,5.7,Friday,March,2019,Not Satisfied
+Alex,Normal,Male,Food and beverages,43.25,2,4.325,90.825,2019-03-20,15:56:00,Cash,86.5,6.2,Wednesday,March,2019,Not Satisfied
+Alex,Normal,Female,Sports and travel,12.34,7,4.319,90.699,2019-03-04,11:19:00,Credit card,86.38,6.7,Monday,March,2019,Not Satisfied
+Giza,Member,Female,Home and lifestyle,86.27,1,4.3135,90.5835,2019-02-20,13:24:00,E-Wallet,86.27,7.0,Wednesday,February,2019,Satisfied
+Cairo,Normal,Male,Health and beauty,10.75,8,4.3,90.3,2019-03-15,14:38:00,E-Wallet,86.0,6.2,Friday,March,2019,Not Satisfied
+Giza,Normal,Male,Food and beverages,84.83,1,4.2415,89.0715,2019-01-14,15:20:00,E-Wallet,84.83,8.8,Monday,January,2019,Satisfied
+Alex,Normal,Male,Electronic accessories,10.56,8,4.224,88.70400000000001,2019-01-24,17:43:00,Cash,84.48,7.6,Thursday,January,2019,Satisfied
+Giza,Member,Female,Food and beverages,21.04,4,4.208,88.368,2019-01-13,13:58:00,Cash,84.16,7.6,Sunday,January,2019,Satisfied
+Giza,Normal,Male,Electronic accessories,83.08,1,4.154,87.234,2019-01-23,17:16:00,E-Wallet,83.08,6.4,Wednesday,January,2019,Not Satisfied
+Alex,Member,Male,Electronic accessories,20.77,4,4.154,87.234,2019-01-31,13:47:00,Cash,83.08,4.7,Thursday,January,2019,Not Satisfied
+Cairo,Normal,Male,Electronic accessories,27.5,3,4.125,86.625,2019-03-01,15:40:00,E-Wallet,82.5,6.5,Friday,March,2019,Not Satisfied
+Cairo,Normal,Male,Sports and travel,13.69,6,4.107,86.247,2019-02-13,13:59:00,Cash,82.14,6.3,Wednesday,February,2019,Not Satisfied
+Giza,Normal,Male,Food and beverages,27.22,3,4.083,85.743,2019-01-07,12:37:00,Cash,81.66,7.3,Monday,January,2019,Satisfied
+Giza,Member,Female,Health and beauty,81.51,1,4.0755,85.58550000000001,2019-01-22,10:57:00,E-Wallet,81.51,9.2,Tuesday,January,2019,Satisfied
+Giza,Member,Female,Fashion accessories,10.18,8,4.072,85.512,2019-03-30,12:51:00,Credit card,81.44,9.5,Saturday,March,2019,Satisfied
+Cairo,Normal,Female,Sports and travel,40.62,2,4.062,85.30199999999999,2019-01-17,10:01:00,Credit card,81.24,4.1,Thursday,January,2019,Not Satisfied
+Giza,Member,Female,Fashion accessories,27.02,3,4.053,85.113,2019-03-02,13:01:00,Credit card,81.06,7.1,Saturday,March,2019,Satisfied
+Giza,Member,Male,Sports and travel,80.93,1,4.0465,84.9765,2019-01-19,16:08:00,Credit card,80.93,9.0,Saturday,January,2019,Satisfied
+Cairo,Member,Female,Sports and travel,20.18,4,4.036,84.756,2019-02-13,12:14:00,Credit card,80.72,5.0,Wednesday,February,2019,Not Satisfied
+Alex,Normal,Male,Food and beverages,11.53,7,4.0355,84.74549999999999,2019-01-28,17:35:00,Cash,80.71,8.1,Monday,January,2019,Satisfied
+Cairo,Member,Female,Home and lifestyle,40.3,2,4.03,84.63,2019-03-11,15:30:00,E-Wallet,80.6,4.4,Monday,March,2019,Not Satisfied
+Alex,Normal,Female,Health and beauty,79.74,1,3.987,83.72699999999999,2019-03-06,10:36:00,E-Wallet,79.74,7.3,Wednesday,March,2019,Satisfied
+Alex,Member,Female,Electronic accessories,26.48,3,3.972,83.41199999999999,2019-03-21,10:40:00,E-Wallet,79.44,4.7,Thursday,March,2019,Not Satisfied
+Alex,Member,Female,Sports and travel,39.47,2,3.947,82.887,2019-03-02,16:16:00,Credit card,78.94,5.0,Saturday,March,2019,Not Satisfied
+Cairo,Member,Female,Electronic accessories,26.26,3,3.939,82.719,2019-03-02,12:36:00,E-Wallet,78.78,6.3,Saturday,March,2019,Not Satisfied
+Alex,Normal,Male,Sports and travel,25.84,3,3.876,81.396,2019-03-10,18:55:00,E-Wallet,77.52,6.6,Sunday,March,2019,Not Satisfied
+Alex,Normal,Male,Sports and travel,25.7,3,3.855,80.955,2019-01-17,17:59:00,E-Wallet,77.1,6.1,Thursday,January,2019,Not Satisfied
+Alex,Member,Male,Electronic accessories,76.82,1,3.841,80.66099999999999,2019-02-13,18:27:00,E-Wallet,76.82,7.2,Wednesday,February,2019,Satisfied
+Cairo,Normal,Female,Electronic accessories,38.27,2,3.827,80.367,2019-03-02,18:18:00,Credit card,76.54,5.8,Saturday,March,2019,Not Satisfied
+Giza,Normal,Female,Electronic accessories,15.280000000000001,5,3.82,80.22,2019-03-08,10:29:00,Cash,76.4,9.6,Friday,March,2019,Satisfied
+Giza,Member,Male,Health and beauty,75.88,1,3.794,79.67399999999999,2019-01-03,10:30:00,Credit card,75.88,7.1,Thursday,January,2019,Satisfied
+Cairo,Member,Male,Sports and travel,75.82,1,3.791,79.61099999999999,2019-01-31,13:19:00,Cash,75.82,5.8,Thursday,January,2019,Not Satisfied
+Alex,Member,Male,Home and lifestyle,37.69,2,3.769,79.149,2019-02-20,15:29:00,E-Wallet,75.38,9.5,Wednesday,February,2019,Satisfied
+Cairo,Normal,Male,Sports and travel,74.97,1,3.7485,78.7185,2019-03-16,16:58:00,Cash,74.97,5.6,Saturday,March,2019,Not Satisfied
+Giza,Member,Male,Home and lifestyle,74.86,1,3.743,78.603,2019-03-24,14:49:00,Cash,74.86,6.9,Sunday,March,2019,Not Satisfied
+Giza,Member,Female,Electronic accessories,12.450000000000001,6,3.735,78.435,2019-02-09,13:11:00,Cash,74.7,4.1,Saturday,February,2019,Not Satisfied
+Giza,Member,Female,Fashion accessories,74.29,1,3.7145,78.00450000000001,2019-01-13,19:30:00,Cash,74.29,5.0,Sunday,January,2019,Not Satisfied
+Giza,Member,Female,Sports and travel,24.74,3,3.711,77.931,2019-02-15,17:47:00,Credit card,74.22,10.0,Friday,February,2019,Satisfied
+Alex,Normal,Male,Fashion accessories,74.1,1,3.705,77.80499999999999,2019-01-25,11:05:00,Cash,74.1,9.2,Friday,January,2019,Satisfied
+Alex,Normal,Male,Home and lifestyle,74.07,1,3.7035,77.7735,2019-02-10,12:50:00,E-Wallet,74.07,9.9,Sunday,February,2019,Satisfied
+Cairo,Member,Male,Sports and travel,73.97,1,3.6985,77.6685,2019-02-03,15:53:00,Credit card,73.97,5.4,Sunday,February,2019,Not Satisfied
+Cairo,Member,Female,Fashion accessories,73.96,1,3.698,77.65799999999999,2019-01-05,11:32:00,Credit card,73.96,5.0,Saturday,January,2019,Not Satisfied
+Giza,Member,Male,Sports and travel,14.7,5,3.675,77.175,2019-03-24,13:48:00,E-Wallet,73.5,8.5,Sunday,March,2019,Satisfied
+Alex,Member,Male,Electronic accessories,73.26,1,3.663,76.923,2019-01-27,18:08:00,E-Wallet,73.26,9.7,Sunday,January,2019,Satisfied
+Alex,Normal,Male,Health and beauty,14.62,5,3.655,76.755,2019-03-04,12:23:00,Cash,73.1,4.4,Monday,March,2019,Not Satisfied
+Giza,Member,Male,Food and beverages,24.310000000000002,3,3.6465,76.57650000000001,2019-01-08,19:09:00,Credit card,72.93,4.3,Tuesday,January,2019,Not Satisfied
+Alex,Member,Female,Food and beverages,36.36,2,3.636,76.356,2019-01-21,10:00:00,Cash,72.72,7.1,Monday,January,2019,Satisfied
+Cairo,Member,Female,Fashion accessories,18.08,4,3.616,75.93599999999999,2019-01-14,18:03:00,Credit card,72.32,9.5,Monday,January,2019,Satisfied
+Cairo,Member,Male,Electronic accessories,72.17,1,3.6085,75.77850000000001,2019-01-04,19:40:00,Cash,72.17,6.1,Friday,January,2019,Not Satisfied
+Alex,Member,Male,Electronic accessories,71.95,1,3.5975,75.5475,2019-02-04,12:14:00,Cash,71.95,7.3,Monday,February,2019,Satisfied
+Cairo,Normal,Female,Health and beauty,17.97,4,3.594,75.47399999999999,2019-02-23,20:43:00,E-Wallet,71.88,6.4,Saturday,February,2019,Not Satisfied
+Cairo,Member,Female,Fashion accessories,17.87,4,3.574,75.054,2019-03-22,14:42:00,E-Wallet,71.48,6.5,Friday,March,2019,Not Satisfied
+Cairo,Normal,Female,Food and beverages,71.2,1,3.56,74.76,2019-01-05,20:40:00,Credit card,71.2,9.2,Saturday,January,2019,Satisfied
+Alex,Member,Female,Food and beverages,14.23,5,3.5575,74.70750000000001,2019-02-01,10:08:00,Credit card,71.15,4.4,Friday,February,2019,Not Satisfied
+Alex,Member,Male,Food and beverages,10.129999999999999,7,3.5455,74.4555,2019-03-10,19:35:00,E-Wallet,70.91,8.3,Sunday,March,2019,Satisfied
+Alex,Member,Male,Health and beauty,10.08,7,3.528,74.08800000000001,2019-03-28,20:14:00,Cash,70.56,4.2,Thursday,March,2019,Not Satisfied
+Alex,Normal,Male,Home and lifestyle,34.73,2,3.473,72.93299999999999,2019-03-01,18:14:00,E-Wallet,69.46,9.7,Friday,March,2019,Satisfied
+Cairo,Normal,Female,Fashion accessories,34.7,2,3.47,72.87,2019-03-13,19:48:00,E-Wallet,69.4,8.2,Wednesday,March,2019,Satisfied
+Giza,Member,Male,Food and beverages,68.98,1,3.449,72.429,2019-01-21,20:13:00,Cash,68.98,4.8,Monday,January,2019,Not Satisfied
+Alex,Normal,Male,Food and beverages,13.790000000000001,5,3.4475,72.39750000000001,2019-01-11,19:07:00,Credit card,68.95,7.8,Friday,January,2019,Satisfied
+Alex,Normal,Female,Home and lifestyle,11.43,6,3.429,72.009,2019-01-15,17:24:00,Cash,68.58,7.7,Tuesday,January,2019,Satisfied
+Giza,Member,Male,Food and beverages,17.04,4,3.408,71.568,2019-03-08,20:15:00,E-Wallet,68.16,7.0,Friday,March,2019,Satisfied
+Giza,Member,Female,Sports and travel,68.12,1,3.406,71.52600000000001,2019-01-07,12:28:00,E-Wallet,68.12,6.8,Monday,January,2019,Not Satisfied
+Cairo,Normal,Female,Food and beverages,67.77,1,3.3885,71.15849999999999,2019-02-04,20:43:00,Credit card,67.77,6.5,Monday,February,2019,Not Satisfied
+Giza,Member,Female,Health and beauty,33.47,2,3.347,70.28699999999999,2019-02-10,15:43:00,E-Wallet,66.94,6.7,Sunday,February,2019,Not Satisfied
+Cairo,Normal,Male,Food and beverages,33.33,2,3.333,69.993,2019-01-26,14:41:00,Credit card,66.66,6.4,Saturday,January,2019,Not Satisfied
+Cairo,Member,Female,Home and lifestyle,33.2,2,3.32,69.72,2019-03-15,12:20:00,Credit card,66.4,4.4,Friday,March,2019,Not Satisfied
+Alex,Member,Male,Electronic accessories,66.35,1,3.3175,69.66749999999999,2019-01-31,10:46:00,Credit card,66.35,9.7,Thursday,January,2019,Satisfied
+Cairo,Member,Female,Electronic accessories,13.219999999999999,5,3.305,69.405,2019-03-02,19:26:00,Cash,66.1,4.3,Saturday,March,2019,Not Satisfied
+Alex,Normal,Male,Home and lifestyle,65.82,1,3.291,69.11099999999999,2019-02-22,15:33:00,Cash,65.82,4.1,Friday,February,2019,Not Satisfied
+Giza,Normal,Female,Fashion accessories,16.45,4,3.29,69.09,2019-03-07,14:53:00,E-Wallet,65.8,5.6,Thursday,March,2019,Not Satisfied
+Cairo,Member,Female,Home and lifestyle,21.900000000000002,3,3.285,68.985,2019-01-09,18:43:00,E-Wallet,65.7,4.7,Wednesday,January,2019,Not Satisfied
+Giza,Normal,Female,Fashion accessories,64.99,1,3.2495,68.23949999999999,2019-01-26,10:06:00,Credit card,64.99,4.5,Saturday,January,2019,Not Satisfied
+Alex,Normal,Male,Sports and travel,63.69,1,3.1845,66.8745,2019-02-25,16:21:00,Cash,63.69,6.0,Monday,February,2019,Not Satisfied
+Giza,Member,Female,Food and beverages,21.080000000000002,3,3.162,66.40200000000002,2019-02-09,10:25:00,Cash,63.24,7.3,Saturday,February,2019,Satisfied
+Cairo,Member,Female,Food and beverages,20.87,3,3.1305,65.7405,2019-03-20,13:53:00,Credit card,62.61,8.0,Wednesday,March,2019,Satisfied
+Alex,Member,Female,Electronic accessories,62.48,1,3.124,65.604,2019-02-18,20:29:00,Cash,62.48,4.7,Monday,February,2019,Not Satisfied
+Giza,Member,Female,Electronic accessories,60.95,1,3.0475,63.9975,2019-02-18,11:40:00,E-Wallet,60.95,5.9,Monday,February,2019,Not Satisfied
+Giza,Member,Female,Home and lifestyle,60.87,1,3.0435,63.9135,2019-01-24,13:24:00,Cash,60.87,5.5,Thursday,January,2019,Not Satisfied
+Cairo,Normal,Male,Electronic accessories,60.3,1,3.015,63.315,2019-02-28,17:38:00,Cash,60.3,6.0,Thursday,February,2019,Not Satisfied
+Giza,Member,Male,Electronic accessories,12.05,5,3.0125,63.2625,2019-02-16,15:53:00,E-Wallet,60.25,5.5,Saturday,February,2019,Not Satisfied
+Giza,Normal,Male,Electronic accessories,11.809999999999999,5,2.9525,62.0025,2019-02-17,18:06:00,Cash,59.05,9.4,Sunday,February,2019,Satisfied
+Giza,Normal,Male,Fashion accessories,56.5,1,2.825,59.325,2019-03-13,15:45:00,E-Wallet,56.5,9.6,Wednesday,March,2019,Satisfied
+Alex,Member,Male,Fashion accessories,55.45,1,2.7725,58.222500000000004,2019-02-26,17:46:00,Credit card,55.45,4.9,Tuesday,February,2019,Not Satisfied
+Cairo,Normal,Female,Electronic accessories,13.78,4,2.756,57.876,2019-01-10,11:10:00,E-Wallet,55.12,9.0,Thursday,January,2019,Satisfied
+Giza,Normal,Female,Health and beauty,10.99,5,2.7475,57.697500000000005,2019-01-23,10:18:00,Credit card,54.95,9.3,Wednesday,January,2019,Satisfied
+Cairo,Normal,Male,Sports and travel,54.45,1,2.7225,57.1725,2019-02-26,19:24:00,E-Wallet,54.45,7.9,Tuesday,February,2019,Satisfied
+Cairo,Normal,Male,Fashion accessories,27.18,2,2.718,57.078,2019-03-15,16:26:00,E-Wallet,54.36,4.3,Friday,March,2019,Not Satisfied
+Cairo,Member,Male,Food and beverages,18.080000000000002,3,2.712,56.95200000000001,2019-03-05,19:46:00,E-Wallet,54.24,8.0,Tuesday,March,2019,Satisfied
+Cairo,Member,Male,Fashion accessories,53.78,1,2.689,56.469,2019-02-03,20:13:00,E-Wallet,53.78,4.7,Sunday,February,2019,Not Satisfied
+Cairo,Member,Male,Food and beverages,53.72,1,2.686,56.406,2019-03-01,20:03:00,E-Wallet,53.72,6.4,Friday,March,2019,Not Satisfied
+Alex,Member,Female,Health and beauty,10.690000000000001,5,2.6725,56.1225,2019-03-26,11:07:00,E-Wallet,53.45,7.6,Tuesday,March,2019,Satisfied
+Giza,Normal,Female,Electronic accessories,26.61,2,2.661,55.881,2019-03-19,14:35:00,Cash,53.22,4.2,Tuesday,March,2019,Not Satisfied
+Giza,Member,Female,Home and lifestyle,10.53,5,2.6325,55.2825,2019-01-30,14:43:00,Credit card,52.65,5.8,Wednesday,January,2019,Not Satisfied
+Giza,Normal,Female,Food and beverages,52.42,1,2.621,55.041000000000004,2019-02-06,10:22:00,Credit card,52.42,6.3,Wednesday,February,2019,Not Satisfied
+Alex,Normal,Male,Fashion accessories,52.38,1,2.619,54.999,2019-03-26,19:44:00,Cash,52.38,5.8,Tuesday,March,2019,Not Satisfied
+Giza,Member,Male,Fashion accessories,52.35,1,2.6175,54.9675,2019-02-12,17:49:00,Cash,52.35,4.0,Tuesday,February,2019,Not Satisfied
+Giza,Member,Female,Fashion accessories,51.47,1,2.5735,54.0435,2019-03-18,15:52:00,E-Wallet,51.47,8.5,Monday,March,2019,Satisfied
+Cairo,Member,Female,Fashion accessories,51.36,1,2.568,53.928,2019-01-16,15:26:00,E-Wallet,51.36,5.2,Wednesday,January,2019,Not Satisfied
+Giza,Member,Female,Health and beauty,10.16,5,2.54,53.339999999999996,2019-02-24,13:08:00,E-Wallet,50.8,4.1,Sunday,February,2019,Not Satisfied
+Cairo,Normal,Male,Sports and travel,25.31,2,2.531,53.150999999999996,2019-03-02,19:26:00,E-Wallet,50.62,7.2,Saturday,March,2019,Satisfied
+Giza,Member,Female,Fashion accessories,48.71,1,2.4355,51.1455,2019-03-26,19:20:00,Cash,48.71,4.1,Tuesday,March,2019,Not Satisfied
+Giza,Normal,Male,Food and beverages,48.61,1,2.4305,51.0405,2019-02-25,15:31:00,Cash,48.61,4.4,Monday,February,2019,Not Satisfied
+Cairo,Normal,Female,Fashion accessories,47.44,1,2.372,49.812,2019-02-22,18:19:00,Credit card,47.44,6.8,Friday,February,2019,Not Satisfied
+Alex,Normal,Female,Health and beauty,15.799999999999999,3,2.37,49.769999999999996,2019-03-25,18:02:00,Cash,47.4,9.5,Monday,March,2019,Satisfied
+Alex,Normal,Female,Electronic accessories,15.69,3,2.3535,49.4235,2019-03-14,14:13:00,Credit card,47.07,5.8,Thursday,March,2019,Not Satisfied
+Alex,Member,Male,Food and beverages,23.48,2,2.348,49.308,2019-03-14,11:21:00,Credit card,46.96,7.9,Thursday,March,2019,Satisfied
+Alex,Normal,Male,Fashion accessories,46.41,1,2.3205,48.7305,2019-03-03,20:06:00,Credit card,46.41,4.0,Sunday,March,2019,Not Satisfied
+Giza,Normal,Female,Electronic accessories,46.2,1,2.31,48.510000000000005,2019-03-19,12:16:00,Cash,46.2,6.3,Tuesday,March,2019,Not Satisfied
+Alex,Member,Female,Sports and travel,45.58,1,2.279,47.858999999999995,2019-02-07,14:13:00,Cash,45.58,9.8,Thursday,February,2019,Satisfied
+Cairo,Normal,Male,Health and beauty,14.82,3,2.223,46.683,2019-03-01,11:30:00,Credit card,44.46,8.7,Friday,March,2019,Satisfied
+Cairo,Normal,Male,Sports and travel,21.87,2,2.187,45.927,2019-01-25,14:29:00,E-Wallet,43.74,6.9,Friday,January,2019,Not Satisfied
+Alex,Member,Male,Fashion accessories,21.48,2,2.148,45.108000000000004,2019-02-27,12:22:00,E-Wallet,42.96,6.6,Wednesday,February,2019,Not Satisfied
+Giza,Member,Male,Sports and travel,42.85,1,2.1425,44.9925,2019-03-14,15:36:00,Credit card,42.85,9.3,Thursday,March,2019,Satisfied
+Alex,Member,Female,Sports and travel,42.47,1,2.1235,44.5935,2019-01-02,16:57:00,Cash,42.47,5.7,Wednesday,January,2019,Not Satisfied
+Giza,Member,Female,Health and beauty,21.12,2,2.112,44.352000000000004,2019-01-03,19:17:00,Cash,42.24,9.7,Thursday,January,2019,Satisfied
+Alex,Member,Male,Electronic accessories,20.89,2,2.089,43.869,2019-02-05,18:45:00,Cash,41.78,9.8,Tuesday,February,2019,Satisfied
+Giza,Normal,Male,Health and beauty,40.35,1,2.0175,42.3675,2019-01-29,13:46:00,E-Wallet,40.35,6.2,Tuesday,January,2019,Not Satisfied
+Cairo,Member,Male,Electronic accessories,39.75,1,1.9875,41.7375,2019-02-25,20:19:00,Cash,39.75,6.1,Monday,February,2019,Not Satisfied
+Cairo,Member,Female,Electronic accessories,39.48,1,1.974,41.45399999999999,2019-02-12,19:43:00,Cash,39.48,6.5,Tuesday,February,2019,Not Satisfied
+Giza,Normal,Female,Health and beauty,39.42,1,1.971,41.391000000000005,2019-01-18,15:08:00,Cash,39.42,8.4,Friday,January,2019,Satisfied
+Cairo,Member,Female,Sports and travel,39.12,1,1.956,41.076,2019-03-26,11:02:00,Credit card,39.12,9.6,Tuesday,March,2019,Satisfied
+Cairo,Member,Male,Health and beauty,39.01,1,1.9505,40.960499999999996,2019-03-12,16:46:00,Credit card,39.01,4.7,Tuesday,March,2019,Not Satisfied
+Alex,Normal,Male,Electronic accessories,38.6,1,1.93,40.53,2019-01-29,11:26:00,E-Wallet,38.6,6.7,Tuesday,January,2019,Not Satisfied
+Giza,Member,Female,Food and beverages,38.42,1,1.921,40.341,2019-02-02,16:33:00,Cash,38.42,8.6,Saturday,February,2019,Satisfied
+Giza,Normal,Male,Home and lifestyle,37.0,1,1.85,38.85,2019-03-06,13:29:00,Credit card,37.0,7.9,Wednesday,March,2019,Satisfied
+Giza,Normal,Male,Food and beverages,35.89,1,1.7945,37.6845,2019-02-23,16:52:00,Credit card,35.89,7.9,Saturday,February,2019,Satisfied
+Alex,Member,Male,Electronic accessories,11.94,3,1.791,37.611,2019-01-19,12:47:00,Credit card,35.82,8.1,Saturday,January,2019,Satisfied
+Cairo,Normal,Female,Sports and travel,34.81,1,1.7405,36.5505,2019-01-14,10:11:00,Credit card,34.81,7.0,Monday,January,2019,Satisfied
+Cairo,Member,Male,Fashion accessories,33.63,1,1.6815,35.3115,2019-03-20,19:55:00,Cash,33.63,5.6,Wednesday,March,2019,Not Satisfied
+Cairo,Member,Female,Fashion accessories,33.52,1,1.676,35.196000000000005,2019-02-08,15:31:00,Cash,33.52,6.7,Friday,February,2019,Not Satisfied
+Cairo,Member,Female,Sports and travel,16.49,2,1.649,34.629,2019-02-05,11:32:00,E-Wallet,32.98,4.6,Tuesday,February,2019,Not Satisfied
+Cairo,Member,Female,Home and lifestyle,16.16,2,1.616,33.936,2019-03-07,11:49:00,E-Wallet,32.32,6.5,Thursday,March,2019,Not Satisfied
+Giza,Member,Female,Fashion accessories,31.9,1,1.595,33.495,2019-01-05,12:40:00,E-Wallet,31.9,9.1,Saturday,January,2019,Satisfied
+Alex,Member,Male,Food and beverages,31.84,1,1.592,33.432,2019-02-09,13:22:00,Cash,31.84,7.7,Saturday,February,2019,Satisfied
+Cairo,Member,Female,Electronic accessories,10.59,3,1.5885,33.3585,2019-03-12,13:52:00,Credit card,31.77,8.7,Tuesday,March,2019,Satisfied
+Giza,Member,Female,Sports and travel,15.49,2,1.549,32.529,2019-01-16,15:10:00,Cash,30.98,6.3,Wednesday,January,2019,Not Satisfied
+Giza,Member,Female,Health and beauty,15.37,2,1.537,32.277,2019-03-16,19:47:00,Cash,30.74,7.2,Saturday,March,2019,Satisfied
+Alex,Member,Female,Fashion accessories,30.62,1,1.531,32.151,2019-02-05,14:14:00,Credit card,30.62,4.1,Tuesday,February,2019,Not Satisfied
+Alex,Normal,Male,Fashion accessories,30.61,1,1.5305,32.1405,2019-01-23,12:20:00,E-Wallet,30.61,5.2,Wednesday,January,2019,Not Satisfied
+Giza,Member,Female,Food and beverages,30.41,1,1.5205,31.9305,2019-02-22,10:36:00,Credit card,30.41,8.4,Friday,February,2019,Satisfied
+Giza,Normal,Female,Electronic accessories,30.24,1,1.512,31.752,2019-03-04,15:44:00,Cash,30.24,8.4,Monday,March,2019,Satisfied
+Giza,Member,Female,Food and beverages,14.87,2,1.487,31.226999999999997,2019-02-13,18:15:00,Credit card,29.74,8.9,Wednesday,February,2019,Satisfied
+Cairo,Normal,Female,Health and beauty,14.76,2,1.476,30.996,2019-02-18,14:42:00,E-Wallet,29.52,4.3,Monday,February,2019,Not Satisfied
+Alex,Normal,Female,Electronic accessories,28.96,1,1.448,30.408,2019-02-07,10:18:00,Credit card,28.96,6.2,Thursday,February,2019,Not Satisfied
+Giza,Normal,Female,Sports and travel,14.39,2,1.439,30.219,2019-03-02,19:44:00,Credit card,28.78,7.2,Saturday,March,2019,Satisfied
+Cairo,Member,Female,Health and beauty,27.07,1,1.3535,28.4235,2019-01-12,20:07:00,Credit card,27.07,5.3,Saturday,January,2019,Not Satisfied
+Alex,Member,Male,Sports and travel,12.76,2,1.276,26.796,2019-01-08,18:06:00,E-Wallet,25.52,7.8,Tuesday,January,2019,Satisfied
+Giza,Member,Female,Home and lifestyle,12.73,2,1.273,26.733,2019-02-22,12:10:00,Credit card,25.46,5.2,Friday,February,2019,Not Satisfied
+Cairo,Normal,Female,Electronic accessories,25.45,1,1.2725,26.7225,2019-03-10,18:10:00,Credit card,25.45,5.1,Sunday,March,2019,Not Satisfied
+Alex,Normal,Female,Home and lifestyle,25.29,1,1.2645,26.554499999999997,2019-03-23,10:13:00,E-Wallet,25.29,6.1,Saturday,March,2019,Not Satisfied
+Alex,Normal,Male,Health and beauty,25.0,1,1.25,26.25,2019-03-03,15:09:00,E-Wallet,25.0,5.5,Sunday,March,2019,Not Satisfied
+Alex,Normal,Female,Home and lifestyle,12.03,2,1.203,25.262999999999998,2019-01-27,15:51:00,Cash,24.06,5.1,Sunday,January,2019,Not Satisfied
+Giza,Normal,Male,Home and lifestyle,22.96,1,1.148,24.108,2019-01-30,20:47:00,Cash,22.96,4.3,Wednesday,January,2019,Not Satisfied
+Giza,Member,Female,Food and beverages,22.62,1,1.131,23.751,2019-03-17,18:58:00,Cash,22.62,6.4,Sunday,March,2019,Not Satisfied
+Giza,Normal,Female,Sports and travel,22.38,1,1.119,23.499,2019-01-30,17:08:00,Credit card,22.38,8.6,Wednesday,January,2019,Satisfied
+Giza,Normal,Male,Food and beverages,21.58,1,1.079,22.659,2019-02-09,10:02:00,E-Wallet,21.58,7.2,Saturday,February,2019,Satisfied
+Alex,Normal,Male,Fashion accessories,21.32,1,1.066,22.386,2019-01-26,12:43:00,Cash,21.32,5.9,Saturday,January,2019,Not Satisfied
+Alex,Member,Male,Fashion accessories,19.7,1,0.985,20.685,2019-02-08,11:39:00,E-Wallet,19.7,9.5,Friday,February,2019,Satisfied
+Cairo,Member,Female,Health and beauty,19.15,1,0.9575,20.107499999999998,2019-01-28,17:58:00,Credit card,19.15,9.5,Monday,January,2019,Satisfied
+Alex,Member,Female,Health and beauty,18.33,1,0.9165,19.246499999999997,2019-02-02,18:50:00,Cash,18.33,4.3,Saturday,February,2019,Not Satisfied
+Alex,Normal,Male,Home and lifestyle,18.28,1,0.914,19.194000000000003,2019-03-22,15:05:00,Credit card,18.28,8.3,Friday,March,2019,Satisfied
+Cairo,Normal,Female,Health and beauty,17.75,1,0.8875,18.6375,2019-01-14,10:38:00,Cash,17.75,8.6,Monday,January,2019,Satisfied
+Giza,Normal,Male,Fashion accessories,16.28,1,0.814,17.094,2019-03-09,15:36:00,Cash,16.28,5.0,Saturday,March,2019,Not Satisfied
+Alex,Normal,Female,Fashion accessories,15.5,1,0.775,16.275,2019-03-19,15:23:00,Credit card,15.5,7.4,Tuesday,March,2019,Satisfied
+Giza,Member,Female,Fashion accessories,15.43,1,0.7715,16.2015,2019-01-25,15:46:00,Credit card,15.43,6.1,Friday,January,2019,Not Satisfied
+Alex,Normal,Female,Sports and travel,15.34,1,0.767,16.107,2019-01-06,11:09:00,Cash,15.34,6.5,Sunday,January,2019,Not Satisfied
+Giza,Member,Male,Home and lifestyle,13.98,1,0.699,14.679,2019-02-04,13:38:00,E-Wallet,13.98,9.8,Monday,February,2019,Satisfied
+Giza,Normal,Male,Fashion accessories,12.78,1,0.639,13.418999999999999,2019-01-08,14:11:00,E-Wallet,12.78,9.5,Tuesday,January,2019,Satisfied
+Giza,Member,Female,Fashion accessories,12.54,1,0.627,13.167,2019-02-21,12:38:00,Cash,12.54,8.2,Thursday,February,2019,Satisfied
+Alex,Normal,Female,Fashion accessories,12.09,1,0.6045,12.6945,2019-01-26,18:19:00,Credit card,12.09,8.2,Saturday,January,2019,Satisfied
+Giza,Member,Male,Sports and travel,10.17,1,0.5085,10.6785,2019-02-07,14:15:00,Cash,10.17,5.9,Thursday,February,2019,Not Satisfied
