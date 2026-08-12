@@ -215,4 +215,4 @@ The following data-cleaning steps were performed:
 ### **Made By**
 ## ***Fares Hesham Mohammed***
 ### **LinkedIn Profile**
-![Link](https://www.linkedin.com/in/fares-hisham-a862a1375?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[Fares Hisham](https://www.linkedin.com/in/fares-hisham-a862a1375?utm_source=share_via&utm_content=profile&utm_medium=member_android)
